@@ -71,6 +71,11 @@ p.footer {
   color: #868e96;
 }
 
+.list-ul > li {
+  margin-bottom: 15px;
+  color: #868e96;
+}
+
 .social-icons a {
   display: inline-block;
   height: 3.5rem;

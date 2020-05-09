@@ -59,6 +59,22 @@ p.footer {
   color: #495057;
 }
 
+button.dark {
+  color: #ced4da;
+  border-width: 1px;
+  border-color: #28a745;
+}
+
+button.dark:focus {
+  box-shadow: 2px 2px #28a745;
+}
+
+button.dark:hover {
+  color: #212529;
+  border-color: #28a745;
+  background-color: #28a745;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;

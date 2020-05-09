@@ -54,6 +54,22 @@ p.footer {
   color: $gray-700;
 }
 
+button.dark {
+  color: $gray-400;
+  border-width: 1px;
+  border-color: $primary;
+}
+
+button.dark:focus {
+  box-shadow: 2px 2px $primary;
+}
+
+button.dark:hover {
+  color: $gray-900;
+  border-color: $primary;
+  background-color: $primary;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;

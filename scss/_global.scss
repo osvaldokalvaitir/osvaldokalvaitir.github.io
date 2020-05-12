@@ -216,3 +216,25 @@ button.dark:hover {
 .styled_components-icons:hover {
   background-position: 0 -45px;
 }
+
+.figma-icons {
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  background: transparent url("../img/figma.png") no-repeat 0 0;
+}
+
+.figma-icons:hover {
+  background-position: 0 -45px;
+}
+
+.delphi-icons {
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  background: transparent url("../img/delphi.png") no-repeat 0 0;
+}
+
+.delphi-icons:hover {
+  background-position: 0 -45px;
+}

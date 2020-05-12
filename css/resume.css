@@ -89,6 +89,11 @@ button.dark:hover {
   cursor: pointer;
 }
 
+.sublink:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 .text {
   color: #868e96;
 }

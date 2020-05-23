@@ -92,6 +92,13 @@ button.dark:hover {
   margin-left: 20px;
 }
 
+.subheading3 {
+  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 1.2rem;
+  color: #868e96;
+  margin-left: 40px;
+}
+
 .sublink {
   cursor: pointer;
 }
@@ -107,6 +114,10 @@ button.dark:hover {
 
 .text2 {
   margin-left: 20px;
+}
+
+.text3 {
+  margin-left: 40px;
 }
 
 .list-ul > li {

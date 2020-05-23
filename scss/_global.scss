@@ -87,6 +87,13 @@ button.dark:hover {
   margin-left: 20px;
 }
 
+.subheading3 {
+  @include heading-font;
+  font-size: 1.2rem;
+  color: $gray-600;
+  margin-left: 40px;
+}
+
 .sublink {
   cursor: pointer;
 }
@@ -102,6 +109,10 @@ button.dark:hover {
 
 .text2 {
   margin-left: 20px;
+}
+
+.text3 {
+  margin-left: 40px;
 }
 
 .list-ul > li {

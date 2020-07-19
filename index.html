@@ -26,7 +26,7 @@
 
 </head>
 
-<body id="page-top">
+<body id="page-top" class="scrollbar scrollbar-primary">
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
@@ -40,6 +40,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#start" id="nav-initial">Início</a>
+        </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#about">Sobre</a>
         </li>
@@ -61,11 +64,25 @@
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#speeches">Palestras</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#thanks">Agradecimentos</a>
+        </li>
       </ul>
+    </div>
+    <div class="image-container">
+      <img class="image-logo img-fluid" src="img/logo-kalvaitir-sidebar.png" alt="Imagem do perfil">
     </div>
   </nav>
 
   <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="start">
+      <div class="w-100">
+        <img class="img-fluid mx-auto d-block" src="img/logo-kalvaitir-start.png" alt="Logotipo Kalvaitir">
+      </div>
+    </section>
+
+    <hr class="m-0">
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
       <div class="w-100">
@@ -265,7 +282,7 @@
                         Programação em HTML 5
                       </div>
                       <div class="text">
-                         Conceitos e técnicas de HTML 5
+                        Conceitos e técnicas de HTML 5
                       </div>
                       <br />
                       <div class="subheading">
@@ -422,7 +439,7 @@
         <h2 class="mb-5">Skills</h2>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div>
+          <div class="item-skills-big">
             <div class="subheading mb-0">Desenvolvimento Frontend</div>
             <ul class="list-inline dev-icons">
               <li class="list-inline-item" data-toggle="tooltip" data-placement="bottom" title="JavaScript">
@@ -549,7 +566,7 @@
             </ul>
           </div>
           
-          <div>
+          <div class="item-skills-small">
             <div class="subheading mb-0">Gerencimento de Pacotes</div>
             <ul class="list-inline dev-icons">
               <li class="list-inline-item" data-toggle="tooltip" data-placement="bottom" title="NPM">
@@ -1224,6 +1241,8 @@
       </div>
     </section>
 
+    <hr class="m-0">
+
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="speeches">
       <div class="w-100">
         <h2 class="mb-5">PALESTRAS</h2>
@@ -1242,7 +1261,7 @@
               </h3>
               <a href="http://www.firebirddevelopersday.com.br/" target="blank">
                 <div class="subheading mb-2">
-                   Firebird Developers Day
+                  Firebird Developers Day
                 </div>
               </a>
               <div class="text">Caso de sucesso: Migração para Firebird 3</div>
@@ -1273,7 +1292,7 @@
               </h3>
               <a href="http://www.firebirddevelopersday.com.br/" target="blank">
                 <div class="subheading mb-2">
-                   Firebird Developers Day
+                  Firebird Developers Day
                 </div>
               </a>
               <div class="text">VPS - Virtual Private Server com Firebird</div>
@@ -1540,6 +1559,28 @@
           </div>
         </div>
 
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="thanks">
+      <div class="w-100">
+        <h2 class="mb-5">Agradecimentos</h2>
+        <p class="thank">Sou eternamente grato a Deus, só com ele conseguiria encontrar um significado para minha vida. Quanto mais anos eu faço, mais realizado me sinto, profissionalmente e pessoalmente.</p>
+        <p class="thank">Agradeço a minha família, amigos e a minha esposa que sempre me deram forças e confiaram no meu potencial.</p>
+        <p class="thank">Com foco e dedicação, me faz querer a cada dia, ser sempre uma melhor versão de mim.</p>
+
+        <div style="margin-top: 200px">
+          <img
+            class="img-fluid mx-auto d-block"
+            src="img/logo-kalvaitir-end.png"
+            style="width: 100px; height: 100px; margin-bottom: 30px"
+            alt="Logotipo Kalvaitir">
+          <div class="resume-date text-md-center">
+            <span class="text-primary">Kalvaitir © 2020 - Todos os direitos reservados</span>
+          </div>
+        </div>
       </div>
     </section>
 

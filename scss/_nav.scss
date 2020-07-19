@@ -1,12 +1,47 @@
 #sideNav {
-  .navbar-nav .nav-item .nav-link {
-    font-weight: 800;
-    letter-spacing: 0.05rem;
-    text-transform: uppercase;
+  .navbar-nav .nav-item {
+
+    .nav-link {
+      color: $dark;
+      font-weight: 400;
+      letter-spacing: 0.05rem;
+
+      &:hover {
+        color: $gray-300;
+      }
+    }
+    
+    .nav-link.active {
+      color: $white;
+      font-weight: 800;
+      letter-spacing: 0.05rem;
+    }
   }
+
   .navbar-toggler {
     &:focus {
       outline-color: lighten($primary, 15%);
+    }
+  }
+
+  .image-container {
+    display: block;
+    height: 100px;
+  }
+  
+  .image-container .image-logo {
+    display: none;
+  }
+  
+  .image-container .image-logo.image-visible {
+    display: block;
+  }
+}
+
+@media (max-width: 992px) {
+  #sideNav {
+    .image-container {
+      display: none;
     }
   }
 }
@@ -23,6 +58,7 @@
 
     width: $sidebar-base-width;
     height: 100vh;
+
     .navbar-brand {
       display: flex;
 
@@ -31,7 +67,7 @@
       .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: 0.5rem solid fade-out($white, 0.8);
+        border: 0.5rem solid fade-out($dark, 0.8);
       }
     }
     .navbar-collapse {

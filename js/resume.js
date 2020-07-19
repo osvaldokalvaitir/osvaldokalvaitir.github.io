@@ -25,4 +25,14 @@
     target: '#sideNav'
   });
 
+  $(document).scroll(function() {
+    var firstScreen = $('#nav-initial').hasClass('active');
+
+    if (firstScreen) {
+      $('.image-logo').removeClass('image-visible');
+    } else {
+      $('.image-logo').addClass('image-visible');
+    }
+  });
+
 })(jQuery); // End of use strict

@@ -165,7 +165,11 @@ button.dark:hover {
 }
 
 .text-copyright {
-  color: #fff;
+  color: #28a745;
+}
+
+.text-footer {
+  color: #ced4da;
 }
 
 .list-ul > li {

@@ -160,7 +160,11 @@ button.dark:hover {
 }
 
 .text-copyright {
-  color: $white;
+  color: $primary;
+}
+
+.text-footer {
+  color: $gray-400;
 }
 
 .list-ul > li {

@@ -203,125 +203,58 @@ button.dark:hover {
   color: #28a745;
 }
 
-.adonis-icons {
+.base-icons {
   display: inline-block;
   width: 45px;
   height: 45px;
-  background: transparent url("../img/adonis.png") no-repeat 0 0;
 }
 
-.adonis-icons:hover {
+.base-icons:hover {
   background-position: 0 -45px;
+}
+
+.adonis-icons {
+  background: transparent url("../img/icons/adonis.png") no-repeat 0 0;
 }
 
 .buddy-icons {
-  display: inline-block;
-  width: 45px;
-  height: 45px;
-  background: transparent url("../img/buddy.png") no-repeat 0 0;
-}
-
-.buddy-icons:hover {
-  background-position: 0 -45px;
+  background: transparent url("../img/icons/buddy.png") no-repeat 0 0;
 }
 
 .express-icons {
-  display: inline-block;
-  width: 45px;
-  height: 45px;
-  background: transparent url("../img/express.png") no-repeat 0 0;
-}
-
-.express-icons:hover {
-  background-position: 0 -45px;
+  background: transparent url("../img/icons/express.png") no-repeat 0 0;
 }
 
 .firebird-icons {
-  display: inline-block;
-  width: 45px;
-  height: 45px;
-  background: transparent url("../img/firebird.png") no-repeat 0 0;
+  background: transparent url("../img/icons/firebird.png") no-repeat 0 0;
 }
 
-.firebird-icons:hover {
-  background-position: 0 -45px;
-}
-
-.material_ui-icons {
-  display: inline-block;
-  width: 45px;
-  height: 45px;
-  background: transparent url("../img/material_ui.png") no-repeat 0 0;
-}
-
-.material_ui-icons:hover {
-  background-position: 0 -45px;
+.material-ui-icons {
+  background: transparent url("../img/icons/material_ui.png") no-repeat 0 0;
 }
 
 .pipefy-icons {
-  display: inline-block;
-  width: 45px;
-  height: 45px;
-  background: transparent url("../img/pipefy.png") no-repeat 0 0;
-}
-
-.pipefy-icons:hover {
-  background-position: 0 -45px;
+  background: transparent url("../img/icons/pipefy.png") no-repeat 0 0;
 }
 
 .redux-icons {
-  display: inline-block;
-  width: 45px;
-  height: 45px;
-  background: transparent url("../img/redux.png") no-repeat 0 0;
-}
-
-.redux-icons:hover {
-  background-position: 0 -45px;
+  background: transparent url("../img/icons/redux.png") no-repeat 0 0;
 }
 
 .sqlite-icons {
-  display: inline-block;
-  width: 45px;
-  height: 45px;
-  background: transparent url("../img/sqlite.png") no-repeat 0 0;
+  background: transparent url("../img/icons/sqlite.png") no-repeat 0 0;
 }
 
-.sqlite-icons:hover {
-  background-position: 0 -45px;
-}
-
-.styled_components-icons {
-  display: inline-block;
-  width: 45px;
-  height: 45px;
-  background: transparent url("../img/styled_components.png") no-repeat 0 0;
-}
-
-.styled_components-icons:hover {
-  background-position: 0 -45px;
+.styled-components-icons {
+  background: transparent url("../img/icons/styled_components.png") no-repeat 0 0;
 }
 
 .figma-icons {
-  display: inline-block;
-  width: 45px;
-  height: 45px;
-  background: transparent url("../img/figma.png") no-repeat 0 0;
-}
-
-.figma-icons:hover {
-  background-position: 0 -45px;
+  background: transparent url("../img/icons/figma.png") no-repeat 0 0;
 }
 
 .delphi-icons {
-  display: inline-block;
-  width: 45px;
-  height: 45px;
-  background: transparent url("../img/delphi.png") no-repeat 0 0;
-}
-
-.delphi-icons:hover {
-  background-position: 0 -45px;
+  background: transparent url("../img/icons/delphi.png") no-repeat 0 0;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {

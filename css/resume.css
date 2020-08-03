@@ -218,47 +218,47 @@ button.dark:hover {
 }
 
 .adonis-icons {
-  background: transparent url("img/icons/adonis.png") no-repeat 0 0;
+  background: transparent url("/img/icons/adonis.png") no-repeat 0 0;
 }
 
 .buddy-icons {
-  background: transparent url("img/icons/buddy.png") no-repeat 0 0;
+  background: transparent url("/img/icons/buddy.png") no-repeat 0 0;
 }
 
 .express-icons {
-  background: transparent url("img/icons/express.png") no-repeat 0 0;
+  background: transparent url("/img/icons/express.png") no-repeat 0 0;
 }
 
 .firebird-icons {
-  background: transparent url("img/icons/firebird.png") no-repeat 0 0;
+  background: transparent url("/img/icons/firebird.png") no-repeat 0 0;
 }
 
 .material-ui-icons {
-  background: transparent url("img/icons/material_ui.png") no-repeat 0 0;
+  background: transparent url("/img/icons/material_ui.png") no-repeat 0 0;
 }
 
 .pipefy-icons {
-  background: transparent url("img/icons/pipefy.png") no-repeat 0 0;
+  background: transparent url("/img/icons/pipefy.png") no-repeat 0 0;
 }
 
 .redux-icons {
-  background: transparent url("img/icons/redux.png") no-repeat 0 0;
+  background: transparent url("/img/icons/redux.png") no-repeat 0 0;
 }
 
 .sqlite-icons {
-  background: transparent url("img/icons/sqlite.png") no-repeat 0 0;
+  background: transparent url("/img/icons/sqlite.png") no-repeat 0 0;
 }
 
 .styled-components-icons {
-  background: transparent url("img/icons/styled_components.png") no-repeat 0 0;
+  background: transparent url("/img/icons/styled_components.png") no-repeat 0 0;
 }
 
 .figma-icons {
-  background: transparent url("img/icons/figma.png") no-repeat 0 0;
+  background: transparent url("/img/icons/figma.png") no-repeat 0 0;
 }
 
 .delphi-icons {
-  background: transparent url("img/icons/delphi.png") no-repeat 0 0;
+  background: transparent url("/img/icons/delphi.png") no-repeat 0 0;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {

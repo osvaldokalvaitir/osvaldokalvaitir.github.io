@@ -1,0 +1,231 @@
+{
+  "sidebar": {
+    "name": "Osvaldo Kalvaitir",
+    "start": "Start",
+    "about": "About",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "interests": "Interests",
+    "courses": "Courses",
+    "speeches": "Speeches",
+    "thanks": "Thanks"
+  },
+  "about": {
+    "name": "Osvaldo",
+    "surname": "Kalvaitir",
+    "profession": "Full Stack Software Engineer",
+    "address": "Avaré · São Paulo · Brazil",
+    "description": "Hello! My name is Osvaldo, I'm a Full Stack Software Engineer at Datasmart, located in the city of Avaré in the interior of São Paulo. I am currently focused on the JavaScript stack at the moment: Node.JS, ReactJS and React Native. Passionate about technology since I was a child, I like all the stages of creating and managing a project, such as: requirements gathering and analysis, UI/UX prototyping, development, testing, implantation and maintenance."
+  },
+  "experience": {
+    "section": "Experience",
+    "datasmart": {
+      "office": "Full Stack Software Engineer",
+      "company": "Datasmart - Softwares de Gestão",
+      "functions": "Development of a SaaS project from scratch with Node.js on the backend, ReactJS on the frontend and React Native on mobile. Using agile methodology, container virtualization and CI/CD.",
+      "period": "January 2020 - Currently"
+    },
+    "gep": {
+      "office": "Analyst and Systems Developer",
+      "company": "Gep Automação Comercial / Bells",
+      "functions": "Maintenance and development of ERP software and its modules in Delphi; Firebird database; reports in FastReports; server applications with Datasnap; consumption of Rest API; web applications with HTML, CSS, JavaScript and ReactJS; mobile applications for Android in Delphi and React Native; among others.",
+      "period": "April 2011 - December 2019"
+    },
+    "crystal": {
+      "office": "Broker Assistant",
+      "company": "Crystal Imóveis",
+      "functions": "Financial management, customer service, software development, maintenance and networking on microcomputers and notebooks.",
+      "period": "August 2001 - March 2011"
+    }
+  },
+  "education": {
+    "section": "Education",
+    "university": {
+      "name": "Universidade Norte do Paraná",
+      "graduation": "Postgraduate",
+      "description": "Specialization Course in Technologies for Web Applications",
+      "total-workload": "Total Workload: 400 hours",
+      "curriculum": {
+        "section": "Curriculum",
+        "flash-animations": "Flash Animations",
+        "flash-animations-description": "Flash CS5; Action Script 3.0; Multimedia elements",
+        "visual-tools": "Visual Tools",
+        "visual-tools-description": "Fireworks; Photoshop",
+        "php-programming": "PHP Programming",
+        "php-programming-description": "Concepts, techniques, commands and instructions in PHP; Review of Clients/servers/TCP; Review/contextualization of computer programming: HTML and PHP",
+        "flex-programming": "Flex Programming",
+        "flex-programming-description": "Introduction to the ActionScript/MXML tool; Dynamic interfaces; Advanced Flex projects",
+        "html-Programming": "HTML Programming",
+        "html-Programming-description": "Html Concepts and Techniques; Java Script",
+        "html-5-programming": "HTML 5 Programming",
+        "html-5-programming-description": "HTML 5 concepts and techniques",
+        "agile-projects": "Agile Projects",
+        "agile-projects-description": "Agile project management; Scrum Framework; Scrum development strategy; Knowing roles, phases and practices in XP",
+        "systems-analysis": "Systems Analysis",
+        "systems-analysis-description": "Modeling systems with a focus on UML (Unified Modeling Language) diagrams; Working with Case tools",
+        "database": "Database",
+        "database-description": "Entity and relationship modeling; Normalization; CRUD operations; SQL commands; Transaction concepts; Safety principles",
+        "interface-design": "Interface Design",
+        "interface-design-description": "Concepts on ergonomics and cognitive psychology; Guidelines for the conception of Web interfaces; Visual acuity; Concepts about digital interface design and analysis",
+        "human-computer-interaction": "Human-Computer Interaction",
+        "human-computer-interaction-description": "Usability concepts, methods and techniques; Navigability criteria and conception; Evaluation techniques and IHC",
+        "introduction-java-development": "Introduction to Java Development",
+        "introduction-java-development-description": "Basic Java development concepts; Introduction to JDBC; Persistence; Database connection; DAO - (Data Access Object); XML; Ajax; Introduction to Java EE; Application servers",
+        "development-java-web": "Development Java Web",
+        "development-java-web-description": "Introduction to Servlet technology; Introduction to Java Server Pages (JSP); MVC architecture (Model-View-Controller); Security restrictions through authentication with HTML forms; Introduction to JAAS (Java Authentication and Authorization Service)",
+        "advanced-java-web-development": "Advanced Java Web Development",
+        "advanced-java-web-development-description": "JSF; Hibernate; EJB 3 Persistence API",
+        "asp-net-development": "ASP.NET Development",
+        "asp-net-development-description": "Introduction to the .NET Framework platform; Introduction to the C# language; Overview of a Web application; ASP.NET WebForms; ASP.NET MVC",
+        "close": "Close"
+      },
+      "period": "2013-2014"
+    },
+    "college": {
+      "name": "Faculdade Eduvale",
+      "graduation": "Technologist Graduation",
+      "description": "Higher Technology Course in Analysis and Development of Systems - FATEC",
+      "total-workload": "Total Workload: 2.260 hours",
+      "curriculum": {
+        "section": "Curriculum",
+        "systems-programmer-module-1": "Systems Programmer (Module I)",
+        "systems-programmer-module-1-description": "Technical English; Programming Logic (Pascal); Computer Network; Computer Architecture and Organization; Instrumental Portuguese; Introduction to Informatics; Organization, Systems and Methods I; Programming Languages ​​and Techniques (Delphi, Interbase and Firebird); Systems Fundamentals Operational (Virtualization); Data Structure; Mathematics Applied to Cryptography; Project Methodology",
+        "systems-programmer-module-2": "Systems Programmer (Module II)",
+        "systems-programmer-module-2-description": "Entrepreneurship; Information Systems Analysis (dia); Database Fundamentals and Modeling (Erwin); Language and Fundamentals of Programming II (Delphi, IBExpert and Firebird); Software Engineering; Advanced Operating Systems (Linux); Integrated Project of Systems Programming (Java, SQLServer, Eclipse and Netbeans); Data Security, Sites and Operating Systems; Language and Fundamentals of Programming III (Delphi, IBExpert and Firebird); Project Management (Microsoft Project); Systems Documentation (StarUML)",
+        "technologist-analysis-systems-development": "Technologist in Analysis and Systems Development",
+        "technologist-analysis-systems-development-description": "Interpersonal and Organizational Relationships; Language and Fundamentals of Programming IV (PHP, MySQL, Apache, Xampp, Dreamweaver and Fireworks); Project Lab; Object Oriented Programming (Java, SQLServer, Netbeans and UltraVNC)",
+        "close": "Close"
+      },
+      "period": "2009-2011"
+    }    
+  },
+  "skills": {
+    "section": "Skills",
+    "frontend-development": "Frontend Development",
+    "backend-development": "Backend Development",
+    "mobile-development": "Mobile Development",
+    "database": "Database",
+    "server": "Server",
+    "code-versioning": "Code Versioning",
+    "package-management": "Package Management",
+    "agile-methodologies": "Agile Methodologies",
+    "prototyping-design": "Prototyping and UI/UX Design",
+    "ci-cd": "CI/CD",
+    "virtualization": "Virtualization",
+    "others": "Others",
+    "soft-skills": {
+      "section": "Soft Skills",
+      "effective-communication": "Effective communication",
+      "writing": "Writing",
+      "collaboration-teamwork": "Collaboration and Teamwork",
+      "organization-planning": "Organization and Planning",
+      "proactivity": "Proactivity",
+      "ability-work-under-pressure": "Ability to work under pressure",
+      "sense-leadership": "Sense of leadership",
+      "flexibility": "Flexibility",
+      "analytical-ability": "Analytical ability",
+      "creative-thinking": "Creative thinking",
+      "interpersonal-relationship": "Interpersonal relationship",
+      "ability-solve-problems": "Ability to solve problems",
+      "systemic-view": "Systemic view",
+      "entrepreneurship": "Entrepreneurship",
+      "negotiation": "Negotiation",
+      "ethic": "Ethic"
+    }
+  },
+  "interests": {
+    "section": "Interests",
+    "paragraph1": "I am fascinated by many arts, I like to program listening to music, I am eclectic, but to program I like the songs that make me travel in the codes. I always take programming courses to keep myself updated and apply my knowledge at work using the newest technologies.",
+    "paragraph2": "If you weren't a programmer, you would be a UI / UX designer. It pleases my eyes when I see a really beautiful interface with all its color schemes and combinations, animations and apps that care about the user experience.",
+    "paragraph3": "I keep myself informed daily by reading news and articles about technology, culture, politics and about the world. I exercise to keep my body and mind healthy, at least a light jog.",
+    "paragraph4": "On weekends, when I'm not studying, I like camping at the dam or venturing into the kitchen, learning a new recipe, by the way, since I love cooking and I learned very well =). I love going out with friends to catch up or catch a movie / series with my family at home to relax.",
+    "paragraph5": "I haven’t been traveling because of the daily rush, but I intend to travel at least once a year to reinvigorate my energies!"
+  },
+  "courses": {
+    "section": "Courses",
+    "rocketseat": {
+      "school": "Rocketseat",
+      "all-courses": {
+        "section": "All courses"
+      },
+      "total-workload": "",
+      "period": ""
+    },
+    "universidade-global": {
+      "school": "Universidade Global",
+      "description": "",
+      "total-workload": "",
+      "period": ""
+    },
+    "treinaweb": {
+      "school": "TreinaWeb",
+      "all-courses": {
+        "section": "All courses"
+      },
+      "total-workload": "",
+      "period": ""
+    },
+    "portal-rm-factory": {
+      "school": "Portal RM Factory",
+      "description": "",
+      "total-workload": "",
+      "period": ""
+    },
+    "intra": {
+      "school": "INTRA – Instituto Tributário de Ensino à Distância",
+      "description": "",
+      "total-workload": "",
+      "period": ""
+    },
+    "iped": {
+      "school": "IPED - Instituto Politécnico de Ensino à Distância",
+      "description": "",
+      "total-workload": "",
+      "period": ""
+    },
+    "faculdade-eduvale": {
+      "school": "Faculdade Eduvale",
+      "description": "",
+      "total-workload": "",
+      "period": ""
+    },
+    "cebrac": {
+      "school": "CEBRAC",
+      "all-courses": {
+        "section": "All courses",
+        "personal-development": "",
+        "personal-development-description": "",
+        "administrative-development": "",
+        "administrative-development-description": "",
+        "technological-development": "",
+        "technological-development-description": ""
+      },
+      "total-workload": "",
+      "period": ""
+    },
+    "advance-cci": {
+      "school": "Advance CCI",
+      "description": "",
+      "total-workload": "",
+      "period": ""
+    },
+    "interhouse": {
+      "school": "Interhouse",
+      "description": "",
+      "total-workload": "",
+      "period": ""
+    }
+  },
+  "speeches": {
+    "section": "Speeches"
+  },
+  "thanks": {
+    "section": "Thanks",
+    "paragraph1": "I am eternally grateful to God, only with him would I be able to find meaning in my life. The more years I do, the more fulfilled I feel, professionally and personally.",
+    "paragraph2": "I thank my family, friends and my wife who always gave me strength and trusted my potential.",
+    "paragraph3": "With focus and dedication, it makes me want every day, to always be a better version of me.",
+    "copyright": "Kalvaitir © 2020",
+    "rights": "All rights reserved"
+  }
+}

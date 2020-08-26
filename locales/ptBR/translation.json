@@ -1,0 +1,231 @@
+{
+  "sidebar": {
+    "name": "Osvaldo Kalvaitir",
+    "start": "Início",
+    "about": "Sobre",
+    "experience": "Experiências",
+    "education": "Formação Acadêmica",
+    "skills": "Skills",
+    "interests": "Interesses",
+    "courses": "Cursos",
+    "speeches": "Palestras",
+    "thanks": "Agradecimentos"
+  },
+  "about": {
+    "name": "Osvaldo",
+    "surname": "Kalvaitir",
+    "profession": "Engenheiro de Software Full Stack",
+    "address": "Avaré · São Paulo · Brasil",
+    "description": "Olá! Meu nome é Osvaldo, sou Engenheiro de Software Full Stack na Datasmart, localizada na cidade de Avaré no interior de São Paulo. Atualmente, estou focado na stack de JavaScript do momento: Node.JS, ReactJS e React Native. Apaixonado por tecnologia desde pequeno, gosto de todas as etapas de criação e gerenciamento de um projeto, como: levantamento e análise de requisitos, prototipação UI/UX, desenvolvimento, testes, implantação e manutenção."
+  },
+  "experience": {
+    "section": "Experiências",
+    "datasmart": {
+      "office": "Engenheiro de Software Full Stack",
+      "company": "Datasmart - Softwares de Gestão",
+      "functions": "Desenvolvimento de um projeto SaaS do zero com Node.js no backend, ReactJS no frontend e React Native no mobile. Utilizando metologia ágil, virtualização de containers e CI/CD.",
+      "period": "Janeiro 2020 - Atualmente"
+    },
+    "gep": {
+      "office": "Analista e Desenvolvedor de Sistemas",
+      "company": "Gep Automação Comercial / Bells",
+      "functions": "Manutenção e desenvolvimento de software ERP e seus módulos em Delphi; banco de dados Firebird; relatórios em FastReports; aplicações de servidor com Datasnap; consumo de API Rest; aplicações web com HTML, CSS, JavaScript e ReactJS; aplicações mobile para Android em Delphi e React Native; entre outros.",
+      "period": "Abril 2011 - Dezembro 2019"
+    },
+    "crystal": {
+      "office": "Assistente de Corretor",
+      "company": "Crystal Imóveis",
+      "functions": "Gerenciamento financeiro, atendimento ao cliente, desenvolvimento de software, manutenção e rede em microcomputadores e notebooks.",
+      "period": "Agosto 2001 - Março 2011"
+    }
+  },
+  "education": {
+    "section": "Formação Acadêmica",
+    "university": {
+      "name": "Universidade Norte do Paraná",
+      "graduation": "Pós-Graduação",
+      "description": "Curso de Especialização em Tecnologias para Aplicações Web",
+      "total-workload": "Carga Horária Total: 400 horas",
+      "curriculum": {
+        "section": "Grade Curricular",
+        "flash-animations": "Animações em Flash",
+        "flash-animations-description": "Flash CS5; Action Script 3.0; Elementos multimédia",
+        "visual-tools": "Ferramentas Visuais",
+        "visual-tools-description": "Fireworks; Photoshop",
+        "php-programming": "Programação em PHP",
+        "php-programming-description": "Conceitos, técnicas, comandos e instruções em PHP; Revisão de Clientes/servidores/TCP; Revisão/contextualização de programação de computadores: HTML e PHP",
+        "flex-programming": "Programação em Flex",
+        "flex-programming-description": "Introdução à ferramenta ActionScript/MXML; Interfaces dinâmicas; Projetos avançados em Flex",
+        "html-Programming": "Programação em HTML",
+        "html-Programming-description": "Conceitos e Técnicas Html; Java Script",
+        "html-5-programming": "Programação em HTML 5",
+        "html-5-programming-description": "Conceitos e técnicas de HTML 5",
+        "agile-projects": "Projetos Ágeis",
+        "agile-projects-description": "Gestão de projetos ágeis; Framework Scrum; Estratégia de desenvolvimento Scrum; Conhecendo papéis, fases e práticas no XP",
+        "systems-analysis": "Análise de Sistemas",
+        "systems-analysis-description": "Modelagem de sistemas com foco nos diagramas em UML (Unified Modeling Language); Trabalho com ferramentas Case",
+        "database": "Banco de Dados",
+        "database-description": "Modelagem de entidade e relacionamento; Normalização; Operações com CRUD; Comandos SQL; Conceitos de transações; Princípios de segurança",
+        "interface-design": "Design de Interfaces",
+        "interface-design-description": "Conceitos sobre ergonomia e psicologia cognitiva; Diretrizes para a concepção de interfaces Web; Acuidade visual; Conceitos sobre design e análise de interface digital",
+        "human-computer-interaction": "Interação Humano-Computador",
+        "human-computer-interaction-description": "Conceitos, métodos e técnicas de usabilidade; Critérios e concepção de navegabilidade; Técnicas de avaliação e IHC",
+        "introduction-java-development": "Introdução ao Desenvolvimento Java",
+        "introduction-java-development-description": "Conceitos sobre desenvolvimento básico em Java; Introdução à JDBC; Persistência; Conexão em banco; DAO – (Data Access Object); XML; Ajax; Introdução à Java EE; Servidores de aplicação",
+        "development-java-web": "Desenvolvimento Java Web",
+        "development-java-web-description": "Introdução à tecnologia de Servlet; Introdução à Java Server Pages (JSP); Arquitetura MVC (Model-View-Controller); Restrições de segurança através de autenticação com formulários HTML; Introdução à JAAS (Java Authentication and Authorization Service)",
+        "advanced-java-web-development": "Desenvolvimento Java Web Avançado",
+        "advanced-java-web-development-description": "JSF; Hibernate; API de Persistência EJB 3",
+        "asp-net-development": "Desenvolvimento em ASP.NET",
+        "asp-net-development-description": "Introdução à plataforma .NET Framework; Introdução à linguagem C#; Visão geral de uma aplicação Web; ASP.NET WebForms; ASP.NET MVC",
+        "close": "Fechar"
+      },
+      "period": "2013-2014"
+    },
+    "college": {
+      "name": "Faculdade Eduvale",
+      "graduation": "Graduação Tecnólogo",
+      "description": "Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - FATEC",
+      "total-workload": "Carga Horária Total: 2.260 horas",
+      "curriculum": {
+        "section": "Grade Curricular",
+        "systems-programmer-module-1": "Programador de Sistemas (Módulo I)",
+        "systems-programmer-module-1-description": "Inglês Técnico; Lógica de Programação (Pascal); Rede de Computadores; Arquitetura e Organização de Computadores; Português Instrumental; Introdução à Informática; Organização, Sistemas e Métodos I; Linguagens e Técnicas de Programação (Delphi, Interbase e Firebird); Fundamentos de Sistemas Operacionais (Virtualização); Estrutura de Dados; Matemática Aplicada à Criptografia; Metodologia de Projetos",
+        "systems-programmer-module-2": "Programador de Sistemas (Módulo II)",
+        "systems-programmer-module-2-description": "Empreendedorismo; Análise de Sistemas de Informação (dia); Fundamentos e Modelagem de Banco de Dados (Erwin); Linguagem e Fundamentos de Programação II (Delphi, IBExpert e Firebird); Engenharia de Software; Sistemas Operacionais Avançados (Linux); Projeto Integrado de Programação de Sistemas (Java, SQLServer, Eclipse e Netbeans); Segurança de Dados, Sites e Sistemas Operacionais; Linguagem e Fundamentos de Programação III (Delphi, IBExpert e Firebird); Gerência de Projetos (Microsoft Project); Documentação de Sistemas (StarUML)",
+        "technologist-analysis-systems-development": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "technologist-analysis-systems-development-description": "Relações Interpessoais e Organizacionais; Linguagem e Fundamentos de Programação de IV (PHP, MySQL, Apache, Xampp, Dreamweaver e Fireworks); Laboratório de Projetos; Programação Orientada a Objetos (Java, SQLServer, Netbeans e UltraVNC)",
+        "close": "Fechar"
+      },
+      "period": "2009-2011"
+    }  
+  },
+  "skills": {
+    "section": "Skills",
+    "frontend-development": "Desenvolvimento Frontend",
+    "backend-development": "Desenvolvimento Backend",
+    "mobile-development": "Desenvolvimento Mobile",
+    "database": "Banco de Dados",
+    "server": "Servidor",
+    "code-versioning": "Versionamento de Código",
+    "package-management": "Gerencimento de Pacotes",
+    "agile-methodologies": "Metodologias Ágeis",
+    "prototyping-design": "Prototipação e Design UI/UX",
+    "ci-cd": "CI/CD",
+    "virtualization": "Virtualização",
+    "others": "Outros",
+    "soft-skills": {
+      "section": "Soft Skills",
+      "effective-communication": "Comunicação eficaz",
+      "writing": "Escrita",
+      "collaboration-teamwork": "Colaboração e Trabalho em equipe",
+      "organization-planning": "Organização e Planejamento",
+      "proactivity": "Proatividade",
+      "ability-work-under-pressure": "Capacidade de trabalhar sob pressão",
+      "sense-leadership": "Senso de liderança",
+      "flexibility": "Flexibilidade",
+      "analytical-ability": "Capacidade analítica",
+      "creative-thinking": "Pensamento criativo",
+      "interpersonal-relationship": "Relacionamento interpessoal",
+      "ability-solve-problems": "Capacidade de resolver problemas",
+      "systemic-view": "Visão sistêmica",
+      "entrepreneurship": "Empreendedorismo",
+      "negotiation": "Negociação",
+      "ethic": "Ética"
+    }
+  },
+  "interests": {
+    "section": "Interesses",
+    "paragraph1": "Sou fascinado por muitas artes, gosto de programar ouvindo música, sou eclético, mas para programar gosto das músicas que me fazem viajar nos códigos. Sempre faço cursos de programação para me manter atualizado e aplicar meu conhecimento no trabalho usando as mais novas tecnologias.",
+    "paragraph2": "Se não fosse programador, seria designer de UI/UX. Agrada meus olhos quando vejo uma interface realmente bonita com todos seus esquemas de cores e combinações, animações e apps que se preocupam com a experiência do usuário.",
+    "paragraph3": "Diariamente me mantenho informado lendo notícias e artigos de tecnologia, cultura, política e sobre o mundo. Me exercito para manter o corpo e mente saudável, pelo menos uma corrida de leve.",
+    "paragraph4": "Nos finais de semana, quando não estou estudando, gosto de acampar na represa ou de me aventurar na cozinha, aprendendo uma nova receita, aliás, desde pequeno gosto cozinhar e aprendi muito bem =). Adoro sair com os amigos para colocar a conversa em dia ou assistir um filme/série com minha família em casa para relaxar.",
+    "paragraph5": "Faz tempo que não viajo por causa da correria do dia a dia, mas pretendo viajar pelo menos uma vez por ano para revigorar as energias!"
+  },
+  "courses": {
+    "section": "Cursos",
+    "rocketseat": {
+      "school": "Rocketseat",
+      "all-courses": {
+        "section": "Todos os cursos"
+      },
+      "total-workload": "Carga Horária Total: Indefinido",
+      "period": "Outubro 2018 - Atualmente"
+    },
+    "universidade-global": {
+      "school": "Universidade Global",
+      "description": "Dialogflow Completo - Domine a Criação de Assistentes Virtuais; Dialogflow Avançado - Domine a Plataforma por Completo",
+      "total-workload": "Carga Horária Total: 12,5 horas",
+      "period": "Junho 2019"
+    },
+    "treinaweb": {
+      "school": "TreinaWeb",
+      "all-courses": {
+        "section": "Todos os cursos"
+      },
+      "total-workload": "Carga Horária Total: 900 horas",
+      "period": "Junho 2015 - Novembro 2017"
+    },
+    "portal-rm-factory": {
+      "school": "Portal RM Factory",
+      "description": "Introdução a Orientação à Objetos; Herança Visual e Orientação à Objetos",
+      "total-workload": "Carga Horária Total: 32 horas",
+      "period": "Outubro 2017 - Novembro 2017"
+    },
+    "intra": {
+      "school": "INTRA – Instituto Tributário de Ensino à Distância",
+      "description": "Noções de Contabilidade",
+      "total-workload": "Carga Horária Total: 80 horas",
+      "period": "Dezembro 2013"
+    },
+    "iped": {
+      "school": "IPED - Instituto Politécnico de Ensino à Distância",
+      "description": "Oracle 10g",
+      "total-workload": "Carga Horária Total: 23 horas",
+      "period": "Dezembro 2009 - Janeiro 2010"
+    },
+    "faculdade-eduvale": {
+      "school": "Faculdade Eduvale",
+      "description": "Manutenção e Configuração de Notebooks",
+      "total-workload": "Carga Horária Total: 8 horas",
+      "period": "Novembro 2009"
+    },
+    "cebrac": {
+      "school": "CEBRAC",
+      "all-courses": {
+        "section": "Todos os cursos",
+        "personal-development": "Desenvolvimento Pessoal",
+        "personal-development-description": "Relações Interpessoais; Criatividade; Ética Profissional; Marketing Pessoal; Atendimento ao Cliente; Vendas; Comunicação Empresarial; Princípios Empresariais; Negociação; Formação de Líderes; Formação de Equipes; Agente de Qualidade",
+        "administrative-development": "Desenvolvimento Administrativo",
+        "administrative-development-description": "Constituição de Empresa; Escrita Fiscal; Faturamento; Departamento Pessoal; Financeiro; Contabilidade; Finanças Pessoais; Cadastro, Crédito e Cobrança; Estoques e Compras; Matemática Comercial",
+        "technological-development": "Desenvolvimento Tecnológico",
+        "technological-development-description": "Windows; Word; Excel; Power Point; Antivírus; Compactador de Arquivos; Internet; Utilização prática das ferramentas de microinformática aplicadas aos demais módulos do curso",
+      },
+      "total-workload": "Carga Horária Total: 288 horas",
+      "period": "Janeiro 2007 - Dezembro 2008"
+    },
+    "advance-cci": {
+      "school": "Advance CCI",
+      "description": "Montagem, Manutenção e Rede em Microcomputadores; Internet; HTML; Photoshop; Pagemaker; Flash; Fireworks; Dreamweaver; Lógica de Programação; Delphi; Asp; Secretariado; Contabilidade; Departamento Pessoal; Orientação Profissional; Hotelaria; Telemarketing",
+      "total-workload": "Carga Horária Total: 478 horas",
+      "period": "2004-2007"
+    },
+    "interhouse": {
+      "school": "Interhouse",
+      "description": "Digitação; Windows; Word; Excel; Power Point; Outlook; Internet; Acess; Front Page; Corel Draw; Photoshop",
+      "total-workload": "Carga Horária Total: Indefinido",
+      "period": "2003-2003"
+    }
+  },
+  "speeches": {
+    "section": "Palestras"
+  },
+  "thanks": {
+    "section": "Agradecimentos",
+    "paragraph1": "Sou eternamente grato a Deus, somente com ele conseguiria encontrar um significado para minha vida. Quanto mais anos eu faço, mais realizado me sinto, profissionalmente e pessoalmente.",
+    "paragraph2": "Agradeço a minha família, amigos e a minha esposa que sempre me deram forças e confiaram no meu potencial.",
+    "paragraph3": "Com foco e dedicação, me faz querer todos os dias, ser sempre uma melhor versão de mim.",
+    "copyright": "Kalvaitir © 2020",
+    "rights": "Todos os direitos reservados"
+  }
+}

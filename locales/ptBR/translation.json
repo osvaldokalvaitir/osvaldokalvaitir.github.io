@@ -147,7 +147,71 @@
     "rocketseat": {
       "school": "Rocketseat",
       "all-courses": {
-        "section": "Todos os cursos"
+        "section": "Todos os cursos",
+        "goweeks": "Goweeks",
+        "goweek-4": "GoWeek 4.0",
+        "goweek-4-description": "Aplicação clone do feed do Twitter usando Node.js, ReactJS, React Native e Socket.IO",
+        "omnistack-weeks": "Semanas Omnistack",
+        "omnistack-week-5": "Semana OmniStack 5.0",
+        "omnistack-week-5-description": "Aplicação clone do feed do Twitter usando Node.js, ReactJS, React Native e Socket.IO",
+        "omnistack-week-6": "Semana OmniStack 6.0",
+        "omnistack-week-6-description": "Aplicação RocketBox clone do DropBox usando Node.js, ReactJS, React Native e Socket.IO",
+        "omnistack-week-7": "Semana OmniStack 7.0",
+        "omnistack-week-7-description": "Aplicação clone do feed do Instagram usando Node.js, ReactJS, React Native e Socket.IO",
+        "omnistack-week-8": "Semana OmniStack 8.0",
+        "omnistack-week-8-description": "Aplicação Tindev clone do Tinder usando Node.js, ReactJS, React Native e Socket.IO",
+        "next-level-weeks": "Next Level Weeks",
+        "next-level-week-1": "Next Level Week 1.0 - Trilha Booster",
+        "next-level-week-1-description": "Aplicação Ecoleta usando Node.js, ReactJS e React Native",
+        "next-level-week-2": "Next Level Week 2.0 - Trilha Omnistack",
+        "next-level-week-2-description": "Aplicação Proffy usando Node.js, ReactJS e React Native",
+        "starter": "Starter",
+        "starter-description": "Javascript; Javascript ES6+; Node.js; ReactJS; React Native",
+        "bootcamps": "Bootcamps",
+        "gostack-4": "GoStack 4.0",
+        "gonode": "GoNode",
+        "gonode-description": "Ambiente e conceitos; APP GoBarber; APP Marketplace; AdonisJS; Testes automatizados; Deploy e CI",
+        "goreact": "GoReact",
+        "goreact-description": "Ambiente e conceitos; GitHub Compare; Arquitetura Flux com Redux; Spotify; Testes automatizados; Entrega e CI",
+        "gonative": "GoNative",
+        "gonative-description": "Arquitetura e conceitos; APP 01 Githuber; Masterizando o Redux; APP 02 Spotify Clone; Testes automatizados e TDD; Entrega",
+        "gostack-9": "GoStack 9.0",
+        "phase-1": "Fase 1",
+        "phase-1-description": "Introdução ao Node.js; Criando projeto Node.js; Continuando projeto Node.js",
+        "phase-2": "Fase 2",
+        "phase-2-description": "Introdução ao React; Primeiro projeto com ReactJS; Primeiro projeto com React Native",
+        "phase-3": "Fase 3",
+        "phase-3-description": "Arquitetura Flux; Utilizando React Hooks",
+        "phase-4": "Fase 4",
+        "phase-4-description": "Criando projeto ReactJS; Criando projeto React Native",
+        "phase-5": "Fase 5",
+        "phase-5-description": "Testes no Node.js; Deploy no Node.js; Teste no ReactJS e React Native; Deploy no ReactJS; Publicação no React Native",
+        "phase-6": "Fase 6",
+        "phase-6-description": "Patterns avançados no Node.js; Segurança no Node.js",
+        "gostack-next": "GoStack (próximo)",
+        "starting": "Iniciando...",
+        "coming-soon": "Em breve",
+        "bonus-courses": "Cursos Bônus",
+        "bonus-courses-description": "Flexbox; AdonisJS; SaaS Back-end; SaaS Front-end; SaaS Mobile",
+        "bonus-lives": "Lives Bônus",
+        "nodejs": "Node.js",
+        "nodejs-description": "Integração com meios de pagamento no Node.js; GraphQL; Socket.IO na prática",
+        "react-native": "React Native",
+        "react-native-description": "Geolocalização e mapas; Autenticação Social e Gráficos no React Native; Expo",
+        "front-end": "Front-end",
+        "front-end-description": "Gatsby; Documentação Front-end",
+        "design": "Design",
+        "design-description": "Prototipação de UI; Layout responsivo; UI Design",
+        "devops": "DevOPS",
+        "devops-description": "Kubernetes - Docker & Docker Compose",
+        "git": "Git",
+        "git-description": "Git & GitHub; Git & GitHub na Rocketseat",
+        "mentoring": "Mentoria",
+        "mentoring-description": "Mentoria CEO #1 ao #7",
+        "english": "Inglês",
+        "english-description": "Grupo de Inglês #1 ao #6",
+        "others": "Outros",
+        "others-description": "Monorepo"
       },
       "total-workload": "Carga Horária Total: Indefinido",
       "period": "Outubro 2018 - Atualmente"
@@ -161,7 +225,19 @@
     "treinaweb": {
       "school": "TreinaWeb",
       "all-courses": {
-        "section": "Todos os cursos"
+        "section": "Todos os cursos",
+        "back-end": "Back-end",
+        "back-end-description": "Delphi Básico; Delphi 10 Seattle Básico; Delphi - Criação de Aplicações Mobile; Git e GitHub - Controle de versão; Java Básico; Lógica de Programação Completo; Lógica Orientada a Objetos Completo; Node.js Completo; Express - Otimização de aplicações Node.js",
+        "front-end": "Front-end",
+        "front-end-description": "Acessibilidade Completo; Bootstrap 4 - Básico; Bootstrap 4 - Intermediário; CSS3 Básico; DHTML Completo; Flex 4 Completo; HTML Básico; HTML5 e CSS3 - Desenvolvimento Web Básico; HTML5 e CSS3 - Desenvolvimento Web Avançado; JavaScript Básico; JavaScript Intermediário; JavaScript Avançado; JavaScript CrossBrowser Completo; JavaScript - Novidades do ES6 (ES2015); Microformats Completo; PWA - Progressive Web Apps; React.JS - Criação de interfaces web; Tableless Completo; Usabilidade Web Completo; XHTML Completo; XML Completo; XSLT Completo",
+        "mobile": "Mobile",
+        "mobile-description": "Android Básico; Internet Móvel Completo; React Native - Criação de aplicações móveis",
+        "databases": "Bancos de Dados",
+        "databases-description": "MySQL Desenvolvedor",
+        "cms-e-commerce": "CMS e E-commerce",
+        "cms-e-commerce-description": "Magento - Criação de Lojas Virtuais Básico; Magento - Criação de Lojas Virtuais Intermediário; Magento - Criação de Lojas Virtuais Avançado",
+        "digital-marketing": "Marketing Digital",
+        "digital-marketing-description": "SEO - Search Engine Optimization Completo"
       },
       "total-workload": "Carga Horária Total: 900 horas",
       "period": "Junho 2015 - Novembro 2017"
@@ -199,7 +275,7 @@
         "administrative-development": "Desenvolvimento Administrativo",
         "administrative-development-description": "Constituição de Empresa; Escrita Fiscal; Faturamento; Departamento Pessoal; Financeiro; Contabilidade; Finanças Pessoais; Cadastro, Crédito e Cobrança; Estoques e Compras; Matemática Comercial",
         "technological-development": "Desenvolvimento Tecnológico",
-        "technological-development-description": "Windows; Word; Excel; Power Point; Antivírus; Compactador de Arquivos; Internet; Utilização prática das ferramentas de microinformática aplicadas aos demais módulos do curso",
+        "technological-development-description": "Windows; Word; Excel; Power Point; Antivírus; Compactador de Arquivos; Internet; Utilização prática das ferramentas de microinformática aplicadas aos demais módulos do curso"
       },
       "total-workload": "Carga Horária Total: 288 horas",
       "period": "Janeiro 2007 - Dezembro 2008"
@@ -218,7 +294,110 @@
     }
   },
   "speeches": {
-    "section": "Palestras"
+    "section": "Palestras",
+    "fdd-16": {
+      "event": "16º FDD",
+      "description": "Firebird Developers Day",
+      "speech-1": "Caso de sucesso: Migração para Firebird 3",
+      "speech-2": "Sistemas Multicamadas usando o Firebird",
+      "speech-3": "Desenvolvimento de Software OO com o Firebird",
+      "speech-4": "Criando seu primeiro dashboard na nuvem",
+      "speech-5": "Simplificando a virtualização",
+      "speech-6": "Madness session",
+      "total-workload": "Carga Horária Total: 8 horas",
+      "period": "03 de agosto de 2019"
+    },
+    "fdd-11": {
+      "event": "11º FDD",
+      "description": "Firebird Developers Day",
+      "speech-1": "VPS - Virtual Private Server com Firebird",
+      "speech-2": "Usando expressões regulares no Firebird",
+      "speech-3": "Transformando dados em informações",
+      "speech-4": "Firebird - Onde estamos, para onde vamos?",
+      "speech-5": "Conhecendo o Projeto ACBr",
+      "speech-6": "Protegendo seu banco de dados com o Firebird 3",
+      "total-workload": "Carga Horária Total: 8 horas",
+      "period": "30 de agosto de 2014"
+    },
+    "delphi-tour": {
+      "event": "Delphi Tour Multi-device",
+      "description": "Embarcadero",
+      "speech": "Desenvolvimento de aplicações verdadeiramente nativas para múltiplos dispositivos",
+      "total-workload": "Carga Horária Total: 4 horas",
+      "period": "15 de maio de 2013"
+    },
+    "mdl-sap-consulting": {
+      "event": "MDL SAP Consulting",
+      "description": "SAP",
+      "speech": "Conhecendo o mercado, os clientes e o funcionamento do ERP SAP",
+      "total-workload": "Carga Horária Total: 2 horas",
+      "period": "8 de agosto de 2012"
+    },
+    "fdd-8": {
+      "event": "8º FDD",
+      "description": "Firebird Developers Day",
+      "speech-1": "Explorando o RAD Studio XE",
+      "speech-2": "Disponibilizando informações em ambientes multi-plataforma com ferramentas da Fast Reports",
+      "speech-3": "Implementando segurança no servidor Firebird",
+      "speech-4": "Explorando os utilitários de linha de comando",
+      "speech-5": "Conhecendo o PSQL",
+      "total-workload": "Carga Horária Total: 8 horas",
+      "period": "23 de julho de 2011"
+    },
+    "conince-4": {
+      "event": "IV CONINCE",
+      "description": "Congresso de Iniciação Científica Eduvale",
+      "speech-1": "MCT-Brasil",
+      "speech-2": "Gestão Eletrônica de Documentos",
+      "speech-3": "Automação Residencial",
+      "total-workload": "Carga Horária Total: 12 horas",
+      "period": "10 à 12 de maio de 2011"
+    },
+    "it-week-2": {
+      "event": "2ª Semana da Tecnologia da Informação",
+      "description": "FATEC EDUVALE",
+      "speech-1": "Redes sem fio",
+      "speech-2": "Solução de Gestão X Tecnologia",
+      "speech-3": "A importância da automotivação em nossas vidas",
+      "speech-4": "Intuitivo, Incremental e Poderoso: GeneXus",
+      "total-workload": "Carga Horária Total: 12 horas",
+      "period": "19 à 22 de novembro de 2010"
+    },
+    "conince-3": {
+      "event": "III CONINCE",
+      "description": "Congresso de Iniciação Científica Eduvale",
+      "speech-1": "Segurança",
+      "speech-2": "Técnicas de instrução",
+      "speech-3": "Programas utilizados para invasão de redes",
+      "speech-4": "Técnicas utilizadas pelos hackers para acesso a dados",
+      "total-workload": "Carga Horária Total: 12 horas",
+      "period": "03 à 05 de maio de 2010"
+    },
+    "it-week-1": {
+      "event": "1ª Semana da Tecnologia da Informação",
+      "description": "FATEC EDUVALE",
+      "speech-1": "Realidade aumentada e tendências",
+      "speech-2": "Servidores proxy-cache para redes: Squid e ISA Server",
+      "speech-3": "Inteligência artificial e visão computacional: Teoria e aplicações",
+      "speech-4": "Gerenciamento de configuração de software",
+      "speech-5": "Conceitos básicos de roteamento de sub-rede",
+      "total-workload": "Carga Horária Total: 12 horas",
+      "period": "20 à 22 de outubro de 2009",
+      "period-2": "e 27 de novembro de 2009"
+    },
+    "conince-2": {
+      "event": "II CONINCE",
+      "description": "Congresso de Iniciação Científica Eduvale",
+      "total-workload": "Carga Horária Total: 12 horas",
+      "period": "18 à 22 de maio de 2009"
+    },
+    "enread-9": {
+      "event": "IX ENREAD",
+      "description": "Encontro Regional de Administração de Avaré e SEBRAE na rua",
+      "speech": "O desenvolvimento das micro, pequenas e médias empresas",
+      "total-workload": "Carga Horária Total: 15 horas",
+      "period": "21 à 23 de setembro de 2006"
+    }
   },
   "thanks": {
     "section": "Agradecimentos",

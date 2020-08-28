@@ -147,78 +147,257 @@
     "rocketseat": {
       "school": "Rocketseat",
       "all-courses": {
-        "section": "All courses"
+        "section": "All courses",
+        "goweeks": "Goweeks",
+        "goweek-4": "GoWeek 4.0",
+        "goweek-4-description": "Twitter feed clone application using Node.js, ReactJS, React Native and Socket.IO",
+        "omnistack-weeks": "Omnistack Weeks",
+        "omnistack-week-5": "Omnistack Week 5.0",
+        "omnistack-week-5-description": "Twitter feed clone application using Node.js, ReactJS, React Native and Socket.IO",
+        "omnistack-week-6": "Omnistack Week 6.0",
+        "omnistack-week-6-description": "Dropbox clone RocketBox application using Node.js, ReactJS, React Native and Socket.IO",
+        "omnistack-week-7": "Omnistack Week 7.0",
+        "omnistack-week-7-description": "Instagram feed clone application using Node.js, ReactJS, React Native and Socket.IO",
+        "omnistack-week-8": "Omnistack Week 8.0",
+        "omnistack-week-8-description": "Tindev clone Tinder application using Node.js, ReactJS, React Native and Socket.IO",
+        "next-level-weeks": "Next Level Weeks",
+        "next-level-week-1": "Next Level Week 1.0 - Booster Trail",
+        "next-level-week-1-description": "Ecoleta application using Node.js, ReactJS and React Native",
+        "next-level-week-2": "Next Level Week 2.0 - Omnistack Trail",
+        "next-level-week-2-description": "Proffy application using Node.js, ReactJS and React Native",
+        "starter": "Starter",
+        "starter-description": "Javascript; Javascript ES6+; Node.js; ReactJS; React Native",
+        "bootcamps": "Bootcamps",
+        "gostack-4": "GoStack 4.0",
+        "gonode": "GoNode",
+        "gonode-description": "Environment and concepts; GoBarber APP; Marketplace APP; AdonisJS; Automated tests; Deploy and CI",
+        "goreact": "GoReact",
+        "goreact-description": "Environment and concepts; GitHub Compare; Flux architecture with Redux; Spotify; Automated tests; Delivery and CI",
+        "gonative": "GoNative",
+        "gonative-description": "Architecture and concepts; APP 01 Githuber; Mastering Redux; APP 02 Spotify Clone; Automated tests and TDD; Delivery",
+        "gostack-9": "GoStack 9.0",
+        "phase-1": "Phase 1",
+        "phase-1-description": "Introduction to Node.js; Creating Node.js project; Continuing Node.js project",
+        "phase-2": "Phase 2",
+        "phase-2-description": "Introduction to React; First project with ReactJS; First project with React Native",
+        "phase-3": "Phase 3",
+        "phase-3-description": "Flux architecture; Using React Hooks",
+        "phase-4": "Phase 4",
+        "phase-4-description": "Creating ReactJS project; Creating React Native project",
+        "phase-5": "Phase 5",
+        "phase-5-description": "Tests in Node.js; Deploy in Node.js; Test on ReactJS and React Native; Deploy at ReactJS; React Native publishing",
+        "phase-6": "Phase 6",
+        "phase-6-description": "Advanced patterns in Node.js; Security in Node.js",
+        "gostack-next": "GoStack (next)",
+        "starting": "Starting...",
+        "coming-soon": "Coming soon",
+        "bonus-courses": "Bonus courses",
+        "bonus-courses-description": "Flexbox; AdonisJS; SaaS Back-end; SaaS Front-end; SaaS Mobile",
+        "bonus-lives": "Bonus lives",
+        "nodejs": "Node.js",
+        "nodejs-description": "Integration with payment methods in Node.js; GraphQL; Socket.IO in practice",
+        "react-native": "React Native",
+        "react-native-description": "Geolocation and maps; Social Authentication and Graphics in React Native; Expo",
+        "front-end": "Front-end",
+        "front-end-description": "Gatsby; Front-end documentation",
+        "design": "Design",
+        "design-description": "UI prototyping; Responsive layout; UI Design",
+        "devops": "DevOPS",
+        "devops-description": "Kubernetes - Docker & Docker Compose",
+        "git": "Git",
+        "git-description": "Git & GitHub; Git & GitHub at Rocketseat",
+        "mentoring": "Mentoring",
+        "mentoring-description": "Mentoring CEO #1 to #7",
+        "english": "English",
+        "english-description": "English group #1 to #6",
+        "others": "Others",
+        "others-description": "Monorepo"
       },
-      "total-workload": "",
-      "period": ""
+      "total-workload": "Total Hours: Undefined",
+      "period": "October 2018 - Currently"
     },
     "universidade-global": {
       "school": "Universidade Global",
-      "description": "",
-      "total-workload": "",
-      "period": ""
+      "description": "Complete Dialogflow - Master the Creation of Virtual Assistants; Advanced Dialogflow - Master the Platform Completely",
+      "total-workload": "Total Hours: 12.5 hours",
+      "period": "June 2019"
     },
     "treinaweb": {
       "school": "TreinaWeb",
       "all-courses": {
-        "section": "All courses"
+        "section": "All courses",
+        "back-end": "Back-end",
+        "back-end-description": "Basic Delphi; Delphi 10 Seattle Basic; Delphi - Mobile Application Creation; Git and GitHub - Version control; Basic Java; Complete Programming Logic; Complete Object Oriented Logic; Complete Node.js; Express - Node.js application optimization",
+        "front-end": "Front-end",
+        "front-end-description": "Accessibility Complete; Bootstrap 4 - Basic; Bootstrap 4 - Intermediate; Basic CSS3; Complete DHTML; Flex 4 Complete; Basic HTML; HTML5 and CSS3 - Basic Web Development; HTML5 and CSS3 - Advanced Web Development; Basic JavaScript; Intermediate JavaScript; Advanced JavaScript; CrossBrowser JavaScript Complete; JavaScript - News from ES6 (ES2015); Complete Microformats; PWA - Progressive Web Apps; React.JS - Creation of web interfaces; Complete Tableless; Web Usability Complete; Complete XHTML; Complete XML; Complete XSLT",
+        "mobile": "Mobile",
+        "mobile-description": "Android Basic; Complete Mobile Internet; React Native - Creating mobile applications",
+        "databases": "Databases",
+        "databases-description": "MySQL Developer",
+        "cms-e-commerce": "CMS and E-commerce",
+        "cms-e-commerce-description": "Magento - Virtual Store Creation Basic; Magento - Creation of Virtual Stores Intermediate; Magento - Virtual Store Creation Advanced",
+        "digital-marketing": "Digital Marketing",
+        "digital-marketing-description": "SEO - Complete Search Engine Optimization"
       },
-      "total-workload": "",
-      "period": ""
+      "total-workload": "Total Workload: 900 hours",
+      "period": "June 2015 - November 2017"
     },
     "portal-rm-factory": {
       "school": "Portal RM Factory",
-      "description": "",
-      "total-workload": "",
-      "period": ""
+      "description": "Introduction to Object Orientation; Visual Inheritance and Object Orientation",
+      "total-workload": "Total Workload: 32 hours",
+      "period": "October 2017 - November 2017"
     },
     "intra": {
       "school": "INTRA – Instituto Tributário de Ensino à Distância",
-      "description": "",
-      "total-workload": "",
-      "period": ""
+      "description": "Accounting Basics",
+      "total-workload": "Total Workload: 80 hours",
+      "period": "December 2013"
     },
     "iped": {
       "school": "IPED - Instituto Politécnico de Ensino à Distância",
-      "description": "",
-      "total-workload": "",
-      "period": ""
+      "description": "Oracle 10g",
+      "total-workload": "Total Workload: 23 hours",
+      "period": "December 2009 - January 2010"
     },
     "faculdade-eduvale": {
       "school": "Faculdade Eduvale",
-      "description": "",
-      "total-workload": "",
-      "period": ""
+      "description": "Maintenance and Configuration of Notebooks",
+      "total-workload": "Total Workload: 8 hours",
+      "period": "November 2009"
     },
     "cebrac": {
       "school": "CEBRAC",
       "all-courses": {
         "section": "All courses",
-        "personal-development": "",
-        "personal-development-description": "",
-        "administrative-development": "",
-        "administrative-development-description": "",
-        "technological-development": "",
-        "technological-development-description": ""
+        "personal-development": "Personal Development",
+        "personal-development-description": "Interpersonal Relationships; Creativity; Professional Ethics; Personal Marketing; Customer Service; Sales; Business Communication; Business Principles; Negotiation; Leader Training; Team Building; Quality Agent",
+        "administrative-development": "Administrative Development",
+        "administrative-development-description": "Company Constitution; Tax Writing; Billing; Personnel Department; Finance; Accounting; Personal Finance; Registration, Credit and Collection; Inventory and Purchasing; Commercial Mathematics",
+        "technological-development": "Technological Development",
+        "technological-development-description": "Windows; Word; Excel; Power Point; Antivirus; File Compactor; Internet; Practical use of microinformatics tools applied to the other modules of the course"
       },
-      "total-workload": "",
-      "period": ""
+      "total-workload": "Total Workload: 288 hours",
+      "period": "January 2007 - December 2008"
     },
     "advance-cci": {
       "school": "Advance CCI",
-      "description": "",
-      "total-workload": "",
-      "period": ""
+      "description": "Assembly, Maintenance and Network on Micro Computers; Internet; HTML; Photoshop; Pagemaker; Flash; Fireworks; Dreamweaver; Programming Logic; Delphi; Asp; Secretarial; Accounting; Personnel Department; Professional Guidance; Hotel; Telemarketing",
+      "total-workload": "Total Workload: 478 hours",
+      "period": "2004-2007"
     },
     "interhouse": {
       "school": "Interhouse",
-      "description": "",
-      "total-workload": "",
-      "period": ""
+      "description": "Typing; Windows; Word; Excel; Power Point; Outlook; Internet; Acess; Front Page; Corel Draw; Photoshop",
+      "total-workload": "Total Hours: Undefined",
+      "period": "2003-2003"
     }
   },
   "speeches": {
-    "section": "Speeches"
+    "section": "Speeches",
+    "fdd-16": {
+      "event": "16th FDD",
+      "description": "Firebird Developers Day",
+      "speech-1": "Success case: Migration to Firebird 3",
+      "speech-2": "Multilayer systems using Firebird",
+      "speech-3": "OO Software Development with Firebird",
+      "speech-4": "Creating your first dashboard in the cloud",
+      "speech-5": "Simplifying virtualization",
+      "speech-6": "Madness session",
+      "total-workload": "Total Workload: 8 hours",
+      "period": "August 03, 2019"
+    },
+    "fdd-11": {
+      "event": "11th FDD",
+      "description": "Firebird Developers Day",
+      "speech-1": "VPS - Virtual Private Server with Firebird",
+      "speech-2": "Using regular expressions in Firebird",
+      "speech-3": "Transforming data into information",
+      "speech-4": "Firebird - Where are we, where are we going?",
+      "speech-5": "Getting to know the Projeto ACBr",
+      "speech-6": "Securing your database with Firebird 3",
+      "total-workload": "Total Workload: 8 hours",
+      "period": "August 30, 2014"
+    },
+    "delphi-tour": {
+      "event": "Delphi Tour Multi-device",
+      "description": "Embarcadero",
+      "speech": "Development of truly native applications for multiple devices",
+      "total-workload": "Total Workload: 4 hours",
+      "period": "May 15, 2013"
+    },
+    "mdl-sap-consulting": {
+      "event": "MDL SAP Consulting",
+      "description": "SAP",
+      "speech": "Knowing the market, customers and how SAP ERP works",
+      "total-workload": "Total Workload: 2 hours",
+      "period": "August 8, 2012"
+    },
+    "fdd-8": {
+      "event": "8th FDD",
+      "description": "Firebird Developers Day",
+      "speech-1": "Exploring RAD Studio XE",
+      "speech-2": "Making information available in multi-platform environments with Fast Reports tools",
+      "speech-3": "Implementing security on the Firebird server",
+      "speech-4": "Exploring the command line utilities",
+      "speech-5": "Getting to know PSQL",
+      "total-workload": "Total Workload: 8 hours",
+      "period": "July 23, 2011"
+    },
+    "conince-4": {
+      "event": "IV CONINCE",
+      "description": "Eduvale Scientific Initiation Congress",
+      "speech-1": "MCT-Brazil",
+      "speech-2": "Electronic Document Management",
+      "speech-3": "Home Automation",
+      "total-workload": "Total Workload: 12 hours",
+      "period": "May 10 to 12, 2011"
+    },
+    "it-week-2": {
+      "event": "2nd Information Technology Week",
+      "description": "Fatec Eduvale",
+      "speech-1": "Wireless networks",
+      "speech-2": "Management Solution X Technology",
+      "speech-3": "The importance of self-motivation in our lives",
+      "speech-4": "Intuitive, Incremental and Powerful: GeneXus",
+      "total-workload": "Total Workload: 12 hours",
+      "period": "November 19 to 22, 2010"
+    },
+    "conince-3": {
+      "event": "III CONINCE",
+      "description": "Eduvale Scientific Initiation Congress",
+      "speech-1": "Safety",
+      "speech-2": "Instructional techniques",
+      "speech-3": "Programs used for network intrusion",
+      "speech-4": "Techniques used by hackers to access data",
+      "total-workload": "Total Workload: 12 hours",
+      "period": "May 3 to 5, 2010"
+    },
+    "it-week-1": {
+      "event": "1st Information Technology Week",
+      "description": "Fatec Eduvale",
+      "speech-1": "Augmented reality and trends",
+      "speech-2": "Proxy-cache servers for networks: Squid and ISA Server",
+      "speech-3": "Artificial intelligence and computer vision: Theory and applications",
+      "speech-4": "Software configuration management",
+      "speech-5": "Basic concepts of subnet routing",
+      "total-workload": "Total Workload: 12 hours",
+      "period": "October 20 to 22, 2009",
+      "period-2": "and November 27, 2009"
+    },
+    "conince-2": {
+      "event": "II CONINCE",
+      "description": "Eduvale Scientific Initiation Congress",
+      "total-workload": "Total Workload: 12 hours",
+      "period": "May 18 to 22, 2009"
+    },
+    "enread-9": {
+      "event": "IX ENREAD",
+      "description": "Regional Meeting Admnistration Avaré and SEBRAE on the street",
+      "speech": "The development of micro, small and medium-sized enterprises",
+      "total-workload": "Total Workload: 15 hours",
+      "period": "September 21 to 23, 2006"
+    }
   },
   "thanks": {
     "section": "Thanks",

@@ -1,0 +1,410 @@
+{
+  "sidebar": {
+    "name": "Osvaldo Kalvaitir",
+    "start": "Início",
+    "about": "Sobre",
+    "experience": "Experiências",
+    "education": "Formação Acadêmica",
+    "skills": "Skills",
+    "interests": "Interesses",
+    "courses": "Cursos",
+    "speeches": "Palestras",
+    "thanks": "Agradecimentos"
+  },
+  "about": {
+    "name": "Osvaldo",
+    "surname": "Kalvaitir",
+    "profession": "Engenheiro de Software Full Stack",
+    "address": "Avaré · São Paulo · Brasil",
+    "description": "Olá! Meu nome é Osvaldo, sou Engenheiro de Software Full Stack na Datasmart, localizada na cidade de Avaré no interior de São Paulo. Atualmente, estou focado na stack de JavaScript do momento: Node.JS, ReactJS e React Native. Apaixonado por tecnologia desde pequeno, gosto de todas as etapas de criação e gerenciamento de um projeto, como: levantamento e análise de requisitos, prototipação UI/UX, desenvolvimento, testes, implantação e manutenção."
+  },
+  "experience": {
+    "section": "Experiências",
+    "datasmart": {
+      "office": "Engenheiro de Software Full Stack",
+      "company": "Datasmart - Softwares de Gestão",
+      "functions": "Desenvolvimento de um projeto SaaS do zero com Node.js no backend, ReactJS no frontend e React Native no mobile. Utilizando metologia ágil, virtualização de containers e CI/CD.",
+      "period": "Janeiro 2020 - Atualmente"
+    },
+    "gep": {
+      "office": "Analista e Desenvolvedor de Sistemas",
+      "company": "Gep Automação Comercial / Bells",
+      "functions": "Manutenção e desenvolvimento de software ERP e seus módulos em Delphi; banco de dados Firebird; relatórios em FastReports; aplicações de servidor com Datasnap; consumo de API Rest; aplicações web com HTML, CSS, JavaScript e ReactJS; aplicações mobile para Android em Delphi e React Native; entre outros.",
+      "period": "Abril 2011 - Dezembro 2019"
+    },
+    "crystal": {
+      "office": "Assistente de Corretor",
+      "company": "Crystal Imóveis",
+      "functions": "Gerenciamento financeiro, atendimento ao cliente, desenvolvimento de software, manutenção e rede em microcomputadores e notebooks.",
+      "period": "Agosto 2001 - Março 2011"
+    }
+  },
+  "education": {
+    "section": "Formação Acadêmica",
+    "university": {
+      "name": "Universidade Norte do Paraná",
+      "graduation": "Pós-Graduação",
+      "description": "Curso de Especialização em Tecnologias para Aplicações Web",
+      "total-workload": "Carga Horária Total: 400 horas",
+      "curriculum": {
+        "section": "Grade Curricular",
+        "flash-animations": "Animações em Flash",
+        "flash-animations-description": "Flash CS5; Action Script 3.0; Elementos multimédia",
+        "visual-tools": "Ferramentas Visuais",
+        "visual-tools-description": "Fireworks; Photoshop",
+        "php-programming": "Programação em PHP",
+        "php-programming-description": "Conceitos, técnicas, comandos e instruções em PHP; Revisão de Clientes/servidores/TCP; Revisão/contextualização de programação de computadores: HTML e PHP",
+        "flex-programming": "Programação em Flex",
+        "flex-programming-description": "Introdução à ferramenta ActionScript/MXML; Interfaces dinâmicas; Projetos avançados em Flex",
+        "html-Programming": "Programação em HTML",
+        "html-Programming-description": "Conceitos e Técnicas Html; Java Script",
+        "html-5-programming": "Programação em HTML 5",
+        "html-5-programming-description": "Conceitos e técnicas de HTML 5",
+        "agile-projects": "Projetos Ágeis",
+        "agile-projects-description": "Gestão de projetos ágeis; Framework Scrum; Estratégia de desenvolvimento Scrum; Conhecendo papéis, fases e práticas no XP",
+        "systems-analysis": "Análise de Sistemas",
+        "systems-analysis-description": "Modelagem de sistemas com foco nos diagramas em UML (Unified Modeling Language); Trabalho com ferramentas Case",
+        "database": "Banco de Dados",
+        "database-description": "Modelagem de entidade e relacionamento; Normalização; Operações com CRUD; Comandos SQL; Conceitos de transações; Princípios de segurança",
+        "interface-design": "Design de Interfaces",
+        "interface-design-description": "Conceitos sobre ergonomia e psicologia cognitiva; Diretrizes para a concepção de interfaces Web; Acuidade visual; Conceitos sobre design e análise de interface digital",
+        "human-computer-interaction": "Interação Humano-Computador",
+        "human-computer-interaction-description": "Conceitos, métodos e técnicas de usabilidade; Critérios e concepção de navegabilidade; Técnicas de avaliação e IHC",
+        "introduction-java-development": "Introdução ao Desenvolvimento Java",
+        "introduction-java-development-description": "Conceitos sobre desenvolvimento básico em Java; Introdução à JDBC; Persistência; Conexão em banco; DAO – (Data Access Object); XML; Ajax; Introdução à Java EE; Servidores de aplicação",
+        "development-java-web": "Desenvolvimento Java Web",
+        "development-java-web-description": "Introdução à tecnologia de Servlet; Introdução à Java Server Pages (JSP); Arquitetura MVC (Model-View-Controller); Restrições de segurança através de autenticação com formulários HTML; Introdução à JAAS (Java Authentication and Authorization Service)",
+        "advanced-java-web-development": "Desenvolvimento Java Web Avançado",
+        "advanced-java-web-development-description": "JSF; Hibernate; API de Persistência EJB 3",
+        "asp-net-development": "Desenvolvimento em ASP.NET",
+        "asp-net-development-description": "Introdução à plataforma .NET Framework; Introdução à linguagem C#; Visão geral de uma aplicação Web; ASP.NET WebForms; ASP.NET MVC",
+        "close": "Fechar"
+      },
+      "period": "2013-2014"
+    },
+    "college": {
+      "name": "Faculdade Eduvale",
+      "graduation": "Graduação Tecnólogo",
+      "description": "Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - FATEC",
+      "total-workload": "Carga Horária Total: 2.260 horas",
+      "curriculum": {
+        "section": "Grade Curricular",
+        "systems-programmer-module-1": "Programador de Sistemas (Módulo I)",
+        "systems-programmer-module-1-description": "Inglês Técnico; Lógica de Programação (Pascal); Rede de Computadores; Arquitetura e Organização de Computadores; Português Instrumental; Introdução à Informática; Organização, Sistemas e Métodos I; Linguagens e Técnicas de Programação (Delphi, Interbase e Firebird); Fundamentos de Sistemas Operacionais (Virtualização); Estrutura de Dados; Matemática Aplicada à Criptografia; Metodologia de Projetos",
+        "systems-programmer-module-2": "Programador de Sistemas (Módulo II)",
+        "systems-programmer-module-2-description": "Empreendedorismo; Análise de Sistemas de Informação (dia); Fundamentos e Modelagem de Banco de Dados (Erwin); Linguagem e Fundamentos de Programação II (Delphi, IBExpert e Firebird); Engenharia de Software; Sistemas Operacionais Avançados (Linux); Projeto Integrado de Programação de Sistemas (Java, SQLServer, Eclipse e Netbeans); Segurança de Dados, Sites e Sistemas Operacionais; Linguagem e Fundamentos de Programação III (Delphi, IBExpert e Firebird); Gerência de Projetos (Microsoft Project); Documentação de Sistemas (StarUML)",
+        "technologist-analysis-systems-development": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "technologist-analysis-systems-development-description": "Relações Interpessoais e Organizacionais; Linguagem e Fundamentos de Programação de IV (PHP, MySQL, Apache, Xampp, Dreamweaver e Fireworks); Laboratório de Projetos; Programação Orientada a Objetos (Java, SQLServer, Netbeans e UltraVNC)",
+        "close": "Fechar"
+      },
+      "period": "2009-2011"
+    }  
+  },
+  "skills": {
+    "section": "Skills",
+    "frontend-development": "Desenvolvimento Frontend",
+    "backend-development": "Desenvolvimento Backend",
+    "mobile-development": "Desenvolvimento Mobile",
+    "database": "Banco de Dados",
+    "server": "Servidor",
+    "code-versioning": "Versionamento de Código",
+    "package-management": "Gerencimento de Pacotes",
+    "agile-methodologies": "Metodologias Ágeis",
+    "prototyping-design": "Prototipação e Design UI/UX",
+    "ci-cd": "CI/CD",
+    "virtualization": "Virtualização",
+    "others": "Outros",
+    "soft-skills": {
+      "section": "Soft Skills",
+      "effective-communication": "Comunicação eficaz",
+      "writing": "Escrita",
+      "collaboration-teamwork": "Colaboração e Trabalho em equipe",
+      "organization-planning": "Organização e Planejamento",
+      "proactivity": "Proatividade",
+      "ability-work-under-pressure": "Capacidade de trabalhar sob pressão",
+      "sense-leadership": "Senso de liderança",
+      "flexibility": "Flexibilidade",
+      "analytical-ability": "Capacidade analítica",
+      "creative-thinking": "Pensamento criativo",
+      "interpersonal-relationship": "Relacionamento interpessoal",
+      "ability-solve-problems": "Capacidade de resolver problemas",
+      "systemic-view": "Visão sistêmica",
+      "entrepreneurship": "Empreendedorismo",
+      "negotiation": "Negociação",
+      "ethic": "Ética"
+    }
+  },
+  "interests": {
+    "section": "Interesses",
+    "paragraph1": "Sou fascinado por muitas artes, gosto de programar ouvindo música, sou eclético, mas para programar gosto das músicas que me fazem viajar nos códigos. Sempre faço cursos de programação para me manter atualizado e aplicar meu conhecimento no trabalho usando as mais novas tecnologias.",
+    "paragraph2": "Se não fosse programador, seria designer de UI/UX. Agrada meus olhos quando vejo uma interface realmente bonita com todos seus esquemas de cores e combinações, animações e apps que se preocupam com a experiência do usuário.",
+    "paragraph3": "Diariamente me mantenho informado lendo notícias e artigos de tecnologia, cultura, política e sobre o mundo. Me exercito para manter o corpo e mente saudável, pelo menos uma corrida de leve.",
+    "paragraph4": "Nos finais de semana, quando não estou estudando, gosto de acampar na represa ou de me aventurar na cozinha, aprendendo uma nova receita, aliás, desde pequeno gosto cozinhar e aprendi muito bem =). Adoro sair com os amigos para colocar a conversa em dia ou assistir um filme/série com minha família em casa para relaxar.",
+    "paragraph5": "Faz tempo que não viajo por causa da correria do dia a dia, mas pretendo viajar pelo menos uma vez por ano para revigorar as energias!"
+  },
+  "courses": {
+    "section": "Cursos",
+    "rocketseat": {
+      "school": "Rocketseat",
+      "all-courses": {
+        "section": "Todos os cursos",
+        "goweeks": "Goweeks",
+        "goweek-4": "GoWeek 4.0",
+        "goweek-4-description": "Aplicação clone do feed do Twitter usando Node.js, ReactJS, React Native e Socket.IO",
+        "omnistack-weeks": "Semanas Omnistack",
+        "omnistack-week-5": "Semana OmniStack 5.0",
+        "omnistack-week-5-description": "Aplicação clone do feed do Twitter usando Node.js, ReactJS, React Native e Socket.IO",
+        "omnistack-week-6": "Semana OmniStack 6.0",
+        "omnistack-week-6-description": "Aplicação RocketBox clone do DropBox usando Node.js, ReactJS, React Native e Socket.IO",
+        "omnistack-week-7": "Semana OmniStack 7.0",
+        "omnistack-week-7-description": "Aplicação clone do feed do Instagram usando Node.js, ReactJS, React Native e Socket.IO",
+        "omnistack-week-8": "Semana OmniStack 8.0",
+        "omnistack-week-8-description": "Aplicação Tindev clone do Tinder usando Node.js, ReactJS, React Native e Socket.IO",
+        "next-level-weeks": "Next Level Weeks",
+        "next-level-week-1": "Next Level Week 1.0 - Trilha Booster",
+        "next-level-week-1-description": "Aplicação Ecoleta usando Node.js, ReactJS e React Native",
+        "next-level-week-2": "Next Level Week 2.0 - Trilha Omnistack",
+        "next-level-week-2-description": "Aplicação Proffy usando Node.js, ReactJS e React Native",
+        "starter": "Starter",
+        "starter-description": "Javascript; Javascript ES6+; Node.js; ReactJS; React Native",
+        "bootcamps": "Bootcamps",
+        "gostack-4": "GoStack 4.0",
+        "gonode": "GoNode",
+        "gonode-description": "Ambiente e conceitos; APP GoBarber; APP Marketplace; AdonisJS; Testes automatizados; Deploy e CI",
+        "goreact": "GoReact",
+        "goreact-description": "Ambiente e conceitos; GitHub Compare; Arquitetura Flux com Redux; Spotify; Testes automatizados; Entrega e CI",
+        "gonative": "GoNative",
+        "gonative-description": "Arquitetura e conceitos; APP 01 Githuber; Masterizando o Redux; APP 02 Spotify Clone; Testes automatizados e TDD; Entrega",
+        "gostack-9": "GoStack 9.0",
+        "phase-1": "Fase 1",
+        "phase-1-description": "Introdução ao Node.js; Criando projeto Node.js; Continuando projeto Node.js",
+        "phase-2": "Fase 2",
+        "phase-2-description": "Introdução ao React; Primeiro projeto com ReactJS; Primeiro projeto com React Native",
+        "phase-3": "Fase 3",
+        "phase-3-description": "Arquitetura Flux; Utilizando React Hooks",
+        "phase-4": "Fase 4",
+        "phase-4-description": "Criando projeto ReactJS; Criando projeto React Native",
+        "phase-5": "Fase 5",
+        "phase-5-description": "Testes no Node.js; Deploy no Node.js; Teste no ReactJS e React Native; Deploy no ReactJS; Publicação no React Native",
+        "phase-6": "Fase 6",
+        "phase-6-description": "Patterns avançados no Node.js; Segurança no Node.js",
+        "gostack-next": "GoStack (próximo)",
+        "starting": "Iniciando...",
+        "coming-soon": "Em breve",
+        "bonus-courses": "Cursos Bônus",
+        "bonus-courses-description": "Flexbox; AdonisJS; SaaS Back-end; SaaS Front-end; SaaS Mobile",
+        "bonus-lives": "Lives Bônus",
+        "nodejs": "Node.js",
+        "nodejs-description": "Integração com meios de pagamento no Node.js; GraphQL; Socket.IO na prática",
+        "react-native": "React Native",
+        "react-native-description": "Geolocalização e mapas; Autenticação Social e Gráficos no React Native; Expo",
+        "front-end": "Front-end",
+        "front-end-description": "Gatsby; Documentação Front-end",
+        "design": "Design",
+        "design-description": "Prototipação de UI; Layout responsivo; UI Design",
+        "devops": "DevOPS",
+        "devops-description": "Kubernetes - Docker & Docker Compose",
+        "git": "Git",
+        "git-description": "Git & GitHub; Git & GitHub na Rocketseat",
+        "mentoring": "Mentoria",
+        "mentoring-description": "Mentoria CEO #1 ao #7",
+        "english": "Inglês",
+        "english-description": "Grupo de Inglês #1 ao #6",
+        "others": "Outros",
+        "others-description": "Monorepo"
+      },
+      "total-workload": "Carga Horária Total: Indefinido",
+      "period": "Outubro 2018 - Atualmente"
+    },
+    "universidade-global": {
+      "school": "Universidade Global",
+      "description": "Dialogflow Completo - Domine a Criação de Assistentes Virtuais; Dialogflow Avançado - Domine a Plataforma por Completo",
+      "total-workload": "Carga Horária Total: 12,5 horas",
+      "period": "Junho 2019"
+    },
+    "treinaweb": {
+      "school": "TreinaWeb",
+      "all-courses": {
+        "section": "Todos os cursos",
+        "back-end": "Back-end",
+        "back-end-description": "Delphi Básico; Delphi 10 Seattle Básico; Delphi - Criação de Aplicações Mobile; Git e GitHub - Controle de versão; Java Básico; Lógica de Programação Completo; Lógica Orientada a Objetos Completo; Node.js Completo; Express - Otimização de aplicações Node.js",
+        "front-end": "Front-end",
+        "front-end-description": "Acessibilidade Completo; Bootstrap 4 - Básico; Bootstrap 4 - Intermediário; CSS3 Básico; DHTML Completo; Flex 4 Completo; HTML Básico; HTML5 e CSS3 - Desenvolvimento Web Básico; HTML5 e CSS3 - Desenvolvimento Web Avançado; JavaScript Básico; JavaScript Intermediário; JavaScript Avançado; JavaScript CrossBrowser Completo; JavaScript - Novidades do ES6 (ES2015); Microformats Completo; PWA - Progressive Web Apps; React.JS - Criação de interfaces web; Tableless Completo; Usabilidade Web Completo; XHTML Completo; XML Completo; XSLT Completo",
+        "mobile": "Mobile",
+        "mobile-description": "Android Básico; Internet Móvel Completo; React Native - Criação de aplicações móveis",
+        "databases": "Bancos de Dados",
+        "databases-description": "MySQL Desenvolvedor",
+        "cms-e-commerce": "CMS e E-commerce",
+        "cms-e-commerce-description": "Magento - Criação de Lojas Virtuais Básico; Magento - Criação de Lojas Virtuais Intermediário; Magento - Criação de Lojas Virtuais Avançado",
+        "digital-marketing": "Marketing Digital",
+        "digital-marketing-description": "SEO - Search Engine Optimization Completo"
+      },
+      "total-workload": "Carga Horária Total: 900 horas",
+      "period": "Junho 2015 - Novembro 2017"
+    },
+    "portal-rm-factory": {
+      "school": "Portal RM Factory",
+      "description": "Introdução a Orientação à Objetos; Herança Visual e Orientação à Objetos",
+      "total-workload": "Carga Horária Total: 32 horas",
+      "period": "Outubro 2017 - Novembro 2017"
+    },
+    "intra": {
+      "school": "INTRA – Instituto Tributário de Ensino à Distância",
+      "description": "Noções de Contabilidade",
+      "total-workload": "Carga Horária Total: 80 horas",
+      "period": "Dezembro 2013"
+    },
+    "iped": {
+      "school": "IPED - Instituto Politécnico de Ensino à Distância",
+      "description": "Oracle 10g",
+      "total-workload": "Carga Horária Total: 23 horas",
+      "period": "Dezembro 2009 - Janeiro 2010"
+    },
+    "faculdade-eduvale": {
+      "school": "Faculdade Eduvale",
+      "description": "Manutenção e Configuração de Notebooks",
+      "total-workload": "Carga Horária Total: 8 horas",
+      "period": "Novembro 2009"
+    },
+    "cebrac": {
+      "school": "CEBRAC",
+      "all-courses": {
+        "section": "Todos os cursos",
+        "personal-development": "Desenvolvimento Pessoal",
+        "personal-development-description": "Relações Interpessoais; Criatividade; Ética Profissional; Marketing Pessoal; Atendimento ao Cliente; Vendas; Comunicação Empresarial; Princípios Empresariais; Negociação; Formação de Líderes; Formação de Equipes; Agente de Qualidade",
+        "administrative-development": "Desenvolvimento Administrativo",
+        "administrative-development-description": "Constituição de Empresa; Escrita Fiscal; Faturamento; Departamento Pessoal; Financeiro; Contabilidade; Finanças Pessoais; Cadastro, Crédito e Cobrança; Estoques e Compras; Matemática Comercial",
+        "technological-development": "Desenvolvimento Tecnológico",
+        "technological-development-description": "Windows; Word; Excel; Power Point; Antivírus; Compactador de Arquivos; Internet; Utilização prática das ferramentas de microinformática aplicadas aos demais módulos do curso"
+      },
+      "total-workload": "Carga Horária Total: 288 horas",
+      "period": "Janeiro 2007 - Dezembro 2008"
+    },
+    "advance-cci": {
+      "school": "Advance CCI",
+      "description": "Montagem, Manutenção e Rede em Microcomputadores; Internet; HTML; Photoshop; Pagemaker; Flash; Fireworks; Dreamweaver; Lógica de Programação; Delphi; Asp; Secretariado; Contabilidade; Departamento Pessoal; Orientação Profissional; Hotelaria; Telemarketing",
+      "total-workload": "Carga Horária Total: 478 horas",
+      "period": "2004-2007"
+    },
+    "interhouse": {
+      "school": "Interhouse",
+      "description": "Digitação; Windows; Word; Excel; Power Point; Outlook; Internet; Acess; Front Page; Corel Draw; Photoshop",
+      "total-workload": "Carga Horária Total: Indefinido",
+      "period": "2003-2003"
+    }
+  },
+  "speeches": {
+    "section": "Palestras",
+    "fdd-16": {
+      "event": "16º FDD",
+      "description": "Firebird Developers Day",
+      "speech-1": "Caso de sucesso: Migração para Firebird 3",
+      "speech-2": "Sistemas Multicamadas usando o Firebird",
+      "speech-3": "Desenvolvimento de Software OO com o Firebird",
+      "speech-4": "Criando seu primeiro dashboard na nuvem",
+      "speech-5": "Simplificando a virtualização",
+      "speech-6": "Madness session",
+      "total-workload": "Carga Horária Total: 8 horas",
+      "period": "03 de agosto de 2019"
+    },
+    "fdd-11": {
+      "event": "11º FDD",
+      "description": "Firebird Developers Day",
+      "speech-1": "VPS - Virtual Private Server com Firebird",
+      "speech-2": "Usando expressões regulares no Firebird",
+      "speech-3": "Transformando dados em informações",
+      "speech-4": "Firebird - Onde estamos, para onde vamos?",
+      "speech-5": "Conhecendo o Projeto ACBr",
+      "speech-6": "Protegendo seu banco de dados com o Firebird 3",
+      "total-workload": "Carga Horária Total: 8 horas",
+      "period": "30 de agosto de 2014"
+    },
+    "delphi-tour": {
+      "event": "Delphi Tour Multi-device",
+      "description": "Embarcadero",
+      "speech": "Desenvolvimento de aplicações verdadeiramente nativas para múltiplos dispositivos",
+      "total-workload": "Carga Horária Total: 4 horas",
+      "period": "15 de maio de 2013"
+    },
+    "mdl-sap-consulting": {
+      "event": "MDL SAP Consulting",
+      "description": "SAP",
+      "speech": "Conhecendo o mercado, os clientes e o funcionamento do ERP SAP",
+      "total-workload": "Carga Horária Total: 2 horas",
+      "period": "8 de agosto de 2012"
+    },
+    "fdd-8": {
+      "event": "8º FDD",
+      "description": "Firebird Developers Day",
+      "speech-1": "Explorando o RAD Studio XE",
+      "speech-2": "Disponibilizando informações em ambientes multi-plataforma com ferramentas da Fast Reports",
+      "speech-3": "Implementando segurança no servidor Firebird",
+      "speech-4": "Explorando os utilitários de linha de comando",
+      "speech-5": "Conhecendo o PSQL",
+      "total-workload": "Carga Horária Total: 8 horas",
+      "period": "23 de julho de 2011"
+    },
+    "conince-4": {
+      "event": "IV CONINCE",
+      "description": "Congresso de Iniciação Científica Eduvale",
+      "speech-1": "MCT-Brasil",
+      "speech-2": "Gestão Eletrônica de Documentos",
+      "speech-3": "Automação Residencial",
+      "total-workload": "Carga Horária Total: 12 horas",
+      "period": "10 à 12 de maio de 2011"
+    },
+    "it-week-2": {
+      "event": "2ª Semana da Tecnologia da Informação",
+      "description": "FATEC EDUVALE",
+      "speech-1": "Redes sem fio",
+      "speech-2": "Solução de Gestão X Tecnologia",
+      "speech-3": "A importância da automotivação em nossas vidas",
+      "speech-4": "Intuitivo, Incremental e Poderoso: GeneXus",
+      "total-workload": "Carga Horária Total: 12 horas",
+      "period": "19 à 22 de novembro de 2010"
+    },
+    "conince-3": {
+      "event": "III CONINCE",
+      "description": "Congresso de Iniciação Científica Eduvale",
+      "speech-1": "Segurança",
+      "speech-2": "Técnicas de instrução",
+      "speech-3": "Programas utilizados para invasão de redes",
+      "speech-4": "Técnicas utilizadas pelos hackers para acesso a dados",
+      "total-workload": "Carga Horária Total: 12 horas",
+      "period": "03 à 05 de maio de 2010"
+    },
+    "it-week-1": {
+      "event": "1ª Semana da Tecnologia da Informação",
+      "description": "FATEC EDUVALE",
+      "speech-1": "Realidade aumentada e tendências",
+      "speech-2": "Servidores proxy-cache para redes: Squid e ISA Server",
+      "speech-3": "Inteligência artificial e visão computacional: Teoria e aplicações",
+      "speech-4": "Gerenciamento de configuração de software",
+      "speech-5": "Conceitos básicos de roteamento de sub-rede",
+      "total-workload": "Carga Horária Total: 12 horas",
+      "period": "20 à 22 de outubro de 2009",
+      "period-2": "e 27 de novembro de 2009"
+    },
+    "conince-2": {
+      "event": "II CONINCE",
+      "description": "Congresso de Iniciação Científica Eduvale",
+      "total-workload": "Carga Horária Total: 12 horas",
+      "period": "18 à 22 de maio de 2009"
+    },
+    "enread-9": {
+      "event": "IX ENREAD",
+      "description": "Encontro Regional de Administração de Avaré e SEBRAE na rua",
+      "speech": "O desenvolvimento das micro, pequenas e médias empresas",
+      "total-workload": "Carga Horária Total: 15 horas",
+      "period": "21 à 23 de setembro de 2006"
+    }
+  },
+  "thanks": {
+    "section": "Agradecimentos",
+    "paragraph1": "Sou eternamente grato a Deus, somente com ele conseguiria encontrar um significado para minha vida. Quanto mais anos eu faço, mais realizado me sinto, profissionalmente e pessoalmente.",
+    "paragraph2": "Agradeço a minha família, amigos e a minha esposa que sempre me deram forças e confiaram no meu potencial.",
+    "paragraph3": "Com foco e dedicação, me faz querer todos os dias, ser sempre uma melhor versão de mim.",
+    "copyright": "Kalvaitir © 2020",
+    "rights": "Todos os direitos reservados"
+  }
+}

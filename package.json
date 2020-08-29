@@ -6,10 +6,12 @@
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Meu site pessoal, para quem deseja conhecer um pouco mais de mim.",
+    "description": "Meu site pessoal, para quem deseja conhecer um pouco mais de mim. | My personal website, for those who want to know a little more about me.",
     "keywords": [
         "site pessoal",
-        "currículo"
+        "personal website",
+        "currículo",
+        "curriculum"
     ],
     "license": "MIT",
     "homepage": "https://github.com/osvaldokalvaitir/osvaldokalvaitir.github.io",

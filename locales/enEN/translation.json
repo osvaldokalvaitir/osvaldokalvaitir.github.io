@@ -14,14 +14,14 @@
   "about": {
     "name": "Osvaldo",
     "surname": "Kalvaitir",
-    "profession": "Full Stack Software Engineer",
+    "profession": "Tech Lead and Full Stack Software Engineer",
     "address": "Avaré · São Paulo · Brazil",
-    "description": "Hello! My name is Osvaldo, I'm a Full Stack Software Engineer at Datasmart, located in the city of Avaré in the interior of São Paulo. I am currently focused on the JavaScript stack at the moment: Node.JS, ReactJS and React Native. Passionate about technology since I was a child, I like all the stages of creating and managing a project, such as: requirements gathering and analysis, UI/UX prototyping, development, testing, implantation and maintenance."
+    "description": "Hello! My name is Osvaldo, I'm a Tech Lead and Full Stack Software Engineer at Datasmart, located in the city of Avaré in the interior of São Paulo. I am currently focused on the JavaScript stack at the moment: Node.JS, ReactJS and React Native. Passionate about technology since I was a child, I like all the stages of creating and managing a project, such as: requirements gathering and analysis, UI/UX prototyping, development, testing, implantation and maintenance."
   },
   "experience": {
     "section": "Experience",
     "datasmart": {
-      "office": "Full Stack Software Engineer",
+      "office": "Tech Lead and Full Stack Software Engineer",
       "company": "Datasmart - Softwares de Gestão",
       "functions": "Development of a SaaS project from scratch with Node.js on the backend, ReactJS on the frontend and React Native on mobile. Using agile methodology, container virtualization and CI/CD.",
       "period": "January 2020 - Currently"

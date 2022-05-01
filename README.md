@@ -1,88 +1,65 @@
-# Osvaldo Kalvaitir - Site Pessoal
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/osvaldokalvaitir.github.io/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/osvaldokalvaitir.github.io.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/osvaldokalvaitir.github.io.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/osvaldokalvaitir.github.io.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/osvaldokalvaitir.github.io.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/osvaldokalvaitir.github.io.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/osvaldokalvaitir.github.io.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  Osvaldo Kalvaitir - Personal website
+</h3>
 
-Site Pessoal usando Bootstrap, Gulp e jQuery.  
+<p align="center">
+  🥇 Personal website using Bootstrap, Gulp and jQuery
+</p>
 
-Acesse o site [aqui](https://osvaldokalvaitir.github.io).
+<p align="center">
+  :globe_with_meridians: Click <a href="https://osvaldokalvaitir.github.io">here</a> to see the website
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/osvaldokalvaitir.github.io.svg?color=00A83A">
 
-- [Capturas de Tela](#capturas-de-tela)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/osvaldokalvaitir.github.io.svg?color=00A83A">
 
-  - [Principal](#principal)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+<p align="center">
+  <a href="#computer-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+## :computer: Demo
 
-  - [Execução do Projeto](#execução-do-projeto)
+![Demo](/.github/assets/demo.png)
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-## Capturas de Tela
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/osvaldokalvaitir.github.io
 
-### Principal
+# Entry in folder
+cd osvaldokalvaitir.github.io
 
-![Main](/.github/assets/main.png)
-Esta é a única tela com uma barra de rolagem para navegar em todas as seções do site pessoal, também é possível escolher a seção pela barra lateral.
+# Install deps with npm or yarn
+npm install | yarn
 
-## Desenvolvimento
+# Launch the app with npm or yarn
+npm start | yarn start
+```
 
-### Configuração do Ambiente
+## :memo: License
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-### Instalação do Projeto
+---
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
-
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/gulp.md) e siga `Execução de Projeto para Desenvolvimento`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Bootstrap](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/bootstrap.md)
-
-- [Browsersync](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/browser-sync.md)
-
-- [del](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/del.md)
-
-- [Font Awesome Free](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@fortawesome-fontawesome-free.md)
-
-- [Gulp](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/gulp.md)
-
-- [gulp-autoprefixer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/gulp-autoprefixer.md)
-
-- [gulp-clean-css](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/gulp-clean-css.md)
-
-- [gulp-header](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/gulp-header.md)
-
-- [gulp-plumber](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/gulp-plumber.md)
-
-- [gulp-rename](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/gulp-rename.md)
-
-- [gulp-sass](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/gulp-sass.md)
-
-- [gulp-uglify](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/gulp-uglify.md)
-
-- [jQuery](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jquery.md)
-
-- [jQuery Easing Plugin](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jquery-easing.md)
-
-- [merge-stream](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/merge-stream.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>

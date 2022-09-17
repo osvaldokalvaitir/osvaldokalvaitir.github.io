@@ -16,15 +16,21 @@
     "surname": "Kalvaitir",
     "profession": "Tech Lead and Full Stack Software Engineer",
     "address": "Avaré · São Paulo · Brazil",
-    "description": "Hello! My name is Osvaldo, I'm a Tech Lead and Full Stack Software Engineer at Datasmart, located in the city of Avaré in the interior of São Paulo. I am currently focused on the JavaScript stack at the moment: Node.JS, ReactJS and React Native. Passionate about technology since I was a child, I like all the stages of creating and managing a project, such as: requirements gathering and analysis, UI/UX prototyping, development, testing, implantation and maintenance."
+    "description": "Hello! My name is Osvaldo, I'm a Full Stack Software Engineer at Prisma Promotora, located in the city of Barueri in the state of São Paulo. I am currently focused on the JavaScript stack at the moment: Node.JS, ReactJS and React Native. Passionate about technology since I was a child, I like all the stages of creating and managing a project, such as: requirements gathering and analysis, UI/UX prototyping, development, testing, implantation and maintenance."
   },
   "experience": {
     "section": "Experience",
+    "prisma": {
+      "office": "Full Stack Software Engineer",
+      "company": "Prisma Promotora",
+      "functions": "Development and maintenance of a project with Node.js and Go on the backend, ReactJS on the frontend and React Native on mobile. Using agile methodology, container virtualization and CI/CD.",
+      "period": "September 2022 - Currently"
+    },
     "datasmart": {
       "office": "Tech Lead and Full Stack Software Engineer",
       "company": "Datasmart - Softwares de Gestão",
       "functions": "Development of a SaaS project from scratch with Node.js on the backend, ReactJS on the frontend and React Native on mobile. Using agile methodology, container virtualization and CI/CD.",
-      "period": "January 2020 - Currently"
+      "period": "January 2020 - September 2022"
     },
     "gep": {
       "office": "Analyst and Systems Developer",
@@ -139,9 +145,10 @@
     "section": "Interests",
     "paragraph1": "I am fascinated by many arts, I like to program listening to music, I am eclectic, but to program I like the songs that make me travel in the codes. I always take programming courses to keep myself updated and apply my knowledge at work using the newest technologies.",
     "paragraph2": "If you weren't a programmer, you would be a UI / UX designer. It pleases my eyes when I see a really beautiful interface with all its color schemes and combinations, animations and apps that care about the user experience.",
-    "paragraph3": "I keep myself informed daily by reading news and articles about technology, culture, politics and about the world. I exercise to keep my body and mind healthy, at least a light jog.",
+    "paragraph3": "I keep myself informed daily by reading news and articles about technology, culture, politics and about the world. I exercise by going to the gym to keep my body and mind healthy.",
     "paragraph4": "On weekends, when I'm not studying, I like camping at the dam or venturing into the kitchen, learning a new recipe, by the way, since I love cooking and I learned very well =). I love going out with friends to catch up or catch a movie / series with my family at home to relax.",
-    "paragraph5": "I haven’t been traveling because of the daily rush, but I intend to travel at least once a year to reinvigorate my energies!"
+    "paragraph5": "I like games, especially strategy. I love perfumes, those that transport us to another dimension. I love collections of anything.",
+    "paragraph6": "I haven’t been traveling because of the daily rush, but I intend to travel at least once a year to reinvigorate my energies!"
   },
   "courses": {
     "section": "Courses",

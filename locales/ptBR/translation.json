@@ -16,15 +16,21 @@
     "surname": "Kalvaitir",
     "profession": "Líder de Tecnologia e Engenheiro de Software Full Stack",
     "address": "Avaré · São Paulo · Brasil",
-    "description": "Olá! Meu nome é Osvaldo, sou Líder de Tecnologia e Engenheiro de Software Full Stack na Datasmart, localizada na cidade de Avaré no interior de São Paulo. Atualmente, estou focado na stack de JavaScript do momento: Node.JS, ReactJS e React Native. Apaixonado por tecnologia desde pequeno, gosto de todas as etapas de criação e gerenciamento de um projeto, como: levantamento e análise de requisitos, prototipação UI/UX, desenvolvimento, testes, implantação e manutenção."
+    "description": "Olá! Meu nome é Osvaldo, sou Engenheiro de Software Full Stack na Prisma Promotora, localizada na cidade de Barueri no estado de São Paulo. Atualmente, estou focado na stack de JavaScript do momento: Node.JS, ReactJS e React Native. Apaixonado por tecnologia desde pequeno, gosto de todas as etapas de criação e gerenciamento de um projeto, como: levantamento e análise de requisitos, prototipação UI/UX, desenvolvimento, testes, implantação e manutenção."
   },
   "experience": {
     "section": "Experiências",
+    "prisma": {
+      "office": "Engenheiro de Software Full Stack",
+      "company": "Prisma Promotora",
+      "functions": "Desenvolvimento e manutenção de um projeto com Node.js e Go no backend, ReactJS no frontend e React Native no mobile. Utilizando metologia ágil, virtualização de containers e CI/CD.",
+      "period": "Setembro 2022 - Atualmente"
+    },
     "datasmart": {
       "office": "Líder de Tecnologia e Engenheiro de Software Full Stack",
       "company": "Datasmart - Softwares de Gestão",
       "functions": "Desenvolvimento de um projeto SaaS do zero com Node.js no backend, ReactJS no frontend e React Native no mobile. Utilizando metologia ágil, virtualização de containers e CI/CD.",
-      "period": "Janeiro 2020 - Atualmente"
+      "period": "Janeiro 2020 - Setembro 2022"
     },
     "gep": {
       "office": "Analista e Desenvolvedor de Sistemas",
@@ -139,9 +145,10 @@
     "section": "Interesses",
     "paragraph1": "Sou fascinado por muitas artes, gosto de programar ouvindo música, sou eclético, mas para programar gosto das músicas que me fazem viajar nos códigos. Sempre faço cursos de programação para me manter atualizado e aplicar meu conhecimento no trabalho usando as mais novas tecnologias.",
     "paragraph2": "Se não fosse programador, seria designer de UI/UX. Agrada meus olhos quando vejo uma interface realmente bonita com todos seus esquemas de cores e combinações, animações e apps que se preocupam com a experiência do usuário.",
-    "paragraph3": "Diariamente me mantenho informado lendo notícias e artigos de tecnologia, cultura, política e sobre o mundo. Me exercito para manter o corpo e mente saudável, pelo menos uma corrida de leve.",
+    "paragraph3": "Diariamente me mantenho informado lendo notícias e artigos de tecnologia, cultura, política e sobre o mundo. Me exercito indo na academia para manter o corpo e mente saudável.",
     "paragraph4": "Nos finais de semana, quando não estou estudando, gosto de acampar na represa ou de me aventurar na cozinha, aprendendo uma nova receita, aliás, desde pequeno gosto cozinhar e aprendi muito bem =). Adoro sair com os amigos para colocar a conversa em dia ou assistir um filme/série com minha família em casa para relaxar.",
-    "paragraph5": "Faz tempo que não viajo por causa da correria do dia a dia, mas pretendo viajar pelo menos uma vez por ano para revigorar as energias!"
+    "paragraph5": "Gosto de jogos, principalmente de estratégia. Amo perfumes, aqueles que nos fazem transportar para outra dimensão. Adoro coleções de qualquer coisa.",
+    "paragraph6": "Faz tempo que não viajo por causa da correria do dia a dia, mas pretendo viajar pelo menos uma vez por ano para revigorar as energias!"
   },
   "courses": {
     "section": "Cursos",

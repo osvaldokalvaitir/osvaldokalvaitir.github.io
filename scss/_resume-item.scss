@@ -2,10 +2,7 @@ section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
   .resume-item {
-    .item-skills-big {
-      width: 100%;
-    }
-    .item-skills-small {
+    .item-skills {
       width: 100%;
     }
     .resume-date {
@@ -17,12 +14,9 @@ section.resume-section {
   section.resume-section {
     min-height: 100vh;
     .resume-item {
-      .item-skills-big {
-        width: 70%;
+      .item-skills {
+        width: 50%;
   
-      }
-      .item-skills-small {
-        width: 30%;
       }
       .resume-date {
         min-width: 18rem;
@@ -35,12 +29,8 @@ section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
     .resume-item {
-      .item-skills-big {
-        width: 70%;
-  
-      }
-      .item-skills-small {
-        width: 30%;
+      .item-skills {
+        width: 50%;  
       }
       .resume-date {
         min-width: 18rem;
@@ -53,12 +43,8 @@ section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
     .resume-item {
-      .item-skills-big {
-        width: 50%;
-  
-      }
-      .item-skills-small {
-        width: 50%;
+      .item-skills {
+        width: 50%;  
       }
       .resume-date {
         min-width: 18rem;

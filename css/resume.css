@@ -342,7 +342,7 @@ section.resume-section .resume-item .resume-date {
     min-height: 100vh;
   }
   section.resume-section .resume-item .item-skills {
-    width: 50%;
+    width: 100%;
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
@@ -355,7 +355,7 @@ section.resume-section .resume-item .resume-date {
     padding-bottom: 3rem !important;
   }
   section.resume-section .resume-item .item-skills {
-    width: 50%;
+    width: 100%;
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
@@ -368,7 +368,7 @@ section.resume-section .resume-item .resume-date {
     padding-bottom: 3rem !important;
   }
   section.resume-section .resume-item .item-skills {
-    width: 50%;
+    width: 100%;
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;

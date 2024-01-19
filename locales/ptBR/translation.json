@@ -108,23 +108,9 @@
   },
   "skills": {
     "section": "Skills",
-    "fullstack": "Fullstack",
-    "backend": "Backend",
-    "frontend": "Frontend",
-    "mobile": "Mobile",
-    "styles": "Estilos",
-    "state": "Estado",
-    "relational-database": "Banco de Dados Relacional",
-    "non-relational-database": "Banco de Dados Não-Relacional",
-    "server": "Servidor",
-    "code-versioning": "Versionamento de Código",
-    "package-management": "Gerenciamento de Pacotes",
-    "agile-methodologies": "Metodologias Ágeis",
-    "prototyping-design": "Prototipação e Design UI/UX",
-    "ci-cd": "CI/CD",
-    "virtualization": "Virtualização",
-    "communication": "Comunicação",
-    "editors": "Editores",
+    "hard-skills": {
+      "section": "Hard Skills"
+    },
     "soft-skills": {
       "section": "Soft Skills",
       "effective-communication": "Comunicação eficaz",

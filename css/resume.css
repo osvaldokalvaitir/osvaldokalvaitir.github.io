@@ -329,11 +329,7 @@ section.resume-section {
   padding-bottom: 5rem !important;
 }
 
-section.resume-section .resume-item .item-skills-big {
-  width: 100%;
-}
-
-section.resume-section .resume-item .item-skills-small {
+section.resume-section .resume-item .item-skills {
   width: 100%;
 }
 
@@ -345,11 +341,8 @@ section.resume-section .resume-item .resume-date {
   section.resume-section {
     min-height: 100vh;
   }
-  section.resume-section .resume-item .item-skills-big {
-    width: 70%;
-  }
-  section.resume-section .resume-item .item-skills-small {
-    width: 30%;
+  section.resume-section .resume-item .item-skills {
+    width: 50%;
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
@@ -361,11 +354,8 @@ section.resume-section .resume-item .resume-date {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
   }
-  section.resume-section .resume-item .item-skills-big {
-    width: 70%;
-  }
-  section.resume-section .resume-item .item-skills-small {
-    width: 30%;
+  section.resume-section .resume-item .item-skills {
+    width: 50%;
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
@@ -377,10 +367,7 @@ section.resume-section .resume-item .resume-date {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
   }
-  section.resume-section .resume-item .item-skills-big {
-    width: 50%;
-  }
-  section.resume-section .resume-item .item-skills-small {
+  section.resume-section .resume-item .item-skills {
     width: 50%;
   }
   section.resume-section .resume-item .resume-date {

@@ -245,8 +245,12 @@ button.dark:hover {
   background: transparent url("/img/icons/styled-components.png") no-repeat 0 0;
 }
 
-.nativebase-components-icons {
-  background: transparent url("/img/icons/nativebase-components.png") no-repeat 0 0;
+.nativebase-icons {
+  background: transparent url("/img/icons/nativebase.png") no-repeat 0 0;
+}
+
+.vite-icons {
+  background: transparent url("/img/icons/vite.png") no-repeat 0 0;
 }
 
 .delphi-icons {

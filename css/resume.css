@@ -265,6 +265,10 @@ button.dark:hover {
   background: transparent url("/img/icons/vercel.png") no-repeat 0 0;
 }
 
+.stitches-icons {
+  background: transparent url("/img/icons/stitches.png") no-repeat 0 0;
+}
+
 .delphi-icons {
   background: transparent url("/img/icons/delphi.png") no-repeat 0 0;
 }

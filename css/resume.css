@@ -233,12 +233,84 @@ button.dark:hover {
   background: transparent url("/img/icons/pipefy.png") no-repeat 0 0;
 }
 
+.expo-icons {
+  background: transparent url("/img/icons/expo.png") no-repeat 0 0;
+}
+
 .watermelondb-icons {
   background: transparent url("/img/icons/watermelondb.png") no-repeat 0 0;
 }
 
 .styled-components-icons {
-  background: transparent url("/img/icons/styled_components.png") no-repeat 0 0;
+  background: transparent url("/img/icons/styled-components.png") no-repeat 0 0;
+}
+
+.nativebase-icons {
+  background: transparent url("/img/icons/nativebase.png") no-repeat 0 0;
+}
+
+.vite-icons {
+  background: transparent url("/img/icons/vite.png") no-repeat 0 0;
+}
+
+.realm-icons {
+  background: transparent url("/img/icons/realm.png") no-repeat 0 0;
+}
+
+.vitest-icons {
+  background: transparent url("/img/icons/vitest.png") no-repeat 0 0;
+}
+
+.vercel-icons {
+  background: transparent url("/img/icons/vercel.png") no-repeat 0 0;
+}
+
+.stitches-icons {
+  background: transparent url("/img/icons/stitches.png") no-repeat 0 0;
+}
+
+.planetscale-icons {
+  background: transparent url("/img/icons/planetscale.png") no-repeat 0 0;
+}
+
+.prisma-icons {
+  background: transparent url("/img/icons/prisma.png") no-repeat 0 0;
+}
+
+.github-actions-icons {
+  background: transparent url("/img/icons/github-actions.png") no-repeat 0 0;
+}
+
+.fastify-icons {
+  background: transparent url("/img/icons/fastify.png") no-repeat 0 0;
+}
+
+.insomnia-icons {
+  background: transparent url("/img/icons/insomnia.png") no-repeat 0 0;
+}
+
+.postman-icons {
+  background: transparent url("/img/icons/postman.png") no-repeat 0 0;
+}
+
+.rest-client-icons {
+  background: transparent url("/img/icons/rest-client.png") no-repeat 0 0;
+}
+
+.microsoft-teams-icons {
+  background: transparent url("/img/icons/microsoft-teams.png") no-repeat 0 0;
+}
+
+.sublime-text-icons {
+  background: transparent url("/img/icons/sublime-text.png") no-repeat 0 0;
+}
+
+.notion-icons {
+  background: transparent url("/img/icons/notion.png") no-repeat 0 0;
+}
+
+.turborepo-icons {
+  background: transparent url("/img/icons/turborepo.png") no-repeat 0 0;
 }
 
 .delphi-icons {

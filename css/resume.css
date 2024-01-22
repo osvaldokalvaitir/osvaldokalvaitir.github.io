@@ -321,6 +321,10 @@ button.dark:hover {
   background: transparent url("/img/icons/chatgpt.png") no-repeat 0 0;
 }
 
+.openai-icons {
+  background: transparent url("/img/icons/openai.png") no-repeat 0 0;
+}
+
 .delphi-icons {
   background: transparent url("/img/icons/delphi.png") no-repeat 0 0;
 }

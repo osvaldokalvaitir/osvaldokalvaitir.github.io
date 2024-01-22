@@ -257,6 +257,10 @@ button.dark:hover {
   background: transparent url("/img/icons/realm.png") no-repeat 0 0;
 }
 
+.vitest-icons {
+  background: transparent url("/img/icons/vitest.png") no-repeat 0 0;
+}
+
 .delphi-icons {
   background: transparent url("/img/icons/delphi.png") no-repeat 0 0;
 }

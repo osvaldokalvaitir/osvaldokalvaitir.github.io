@@ -233,12 +233,16 @@ button.dark:hover {
   background: transparent url("/img/icons/pipefy.png") no-repeat 0 0;
 }
 
+.expo-icons {
+  background: transparent url("/img/icons/expo.png") no-repeat 0 0;
+}
+
 .watermelondb-icons {
   background: transparent url("/img/icons/watermelondb.png") no-repeat 0 0;
 }
 
 .styled-components-icons {
-  background: transparent url("/img/icons/styled_components.png") no-repeat 0 0;
+  background: transparent url("/img/icons/styled-components.png") no-repeat 0 0;
 }
 
 .delphi-icons {

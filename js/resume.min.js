@@ -1,6 +1,6 @@
 /*!
  * Site pessoal - Site Pessoal v1.0.0 (https://github.com/osvaldokalvaitir/osvaldokalvaitir.github.io)
- * Copyright 2020-2020 Osvaldo Kalvaitir Filho
+ * Copyright 2020-2024 Osvaldo Kalvaitir Filho
  * Licensed under MIT (https://github.com/BlackrockDigital/site-pessoal/blob/master/LICENSE)
  */
 

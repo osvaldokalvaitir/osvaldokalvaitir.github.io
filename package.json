@@ -4,7 +4,7 @@
     "author": "Osvaldo Kalvaitir Filho",
     "version": "1.0.0",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "dev": "gulp watch"
     },
     "description": "Meu site pessoal, para quem deseja conhecer um pouco mais de mim. | My personal website, for those who want to know a little more about me.",
     "keywords": [
@@ -24,9 +24,9 @@
         "email": "osvaldokalvaitir@outlook.com"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^6.1.2",
-        "bootstrap": "^4.4.1",
-        "jquery": "^3.5.0",
+        "@fortawesome/fontawesome-free": "^6.5.1",
+        "bootstrap": "^4.6.2",
+        "jquery": "^3.7.1",
         "jquery.easing": "^1.4.1"
     },
     "devDependencies": {

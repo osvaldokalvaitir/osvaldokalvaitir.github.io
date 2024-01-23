@@ -51,7 +51,7 @@ cd osvaldokalvaitir.github.io
 npm install | yarn
 
 # Launch the app with npm or yarn
-npm start | yarn start
+npm run dev | yarn dev
 ```
 
 ## :memo: License

@@ -24,13 +24,13 @@
     "prisma": {
       "office": "Engenheiro de Software Full Stack",
       "company": "Prisma Promotora",
-      "functions": "Desenvolvimento e manutenção de um projeto com Node.js e Go no backend, ReactJS no frontend e React Native no mobile. Utilizando metologia ágil, virtualização de containers e CI/CD.",
+      "functions": "Manutenção do aplicativo PrismaPro em React Native, essencial para as operações diárias dos vendedores, com sincronização offline via Realm. Desenvolvimento de landing pages da Prisma e PrismaPro e outros novos projetos frontend usando TypeScript, React.js, Next.js, Tailwind CSS, Stitches e Storybook em monorepo. Eficiência com Prisma para persistência, escalabilidade pelo PlanetScale. Metodologia ágil com Pipefy. Vercel para entrega contínua CI/CD. Atualização constante com as últimas tendências para inovação contínua.",
       "period": "Setembro 2022 - Atualmente"
     },
     "datasmart": {
       "office": "Líder de Tecnologia e Engenheiro de Software Full Stack",
       "company": "Datasmart - Softwares de Gestão",
-      "functions": "Desenvolvimento de um projeto SaaS do zero com Node.js no backend, ReactJS no frontend e React Native no mobile. Utilizando metologia ágil, virtualização de containers e CI/CD.",
+      "functions": "Desenvolvimento de um projeto SaaS do zero utilizando Node.js no backend, junto com Express e Sequelize. MySQL como banco de dados principal. No frontend, é empregado ReactJS com Redux, Material UI e styled-components. No mobile, React Native com WatermelonDB. Metodologia ágil com Pipefy e GitHub Projects. Virtualização de containers com Docker. CI/CD para entrega contínua com AWS CodeDeploy. Chatbot com Discord.js. Expertise na manutenção em servidores Linux.",
       "period": "Janeiro 2020 - Setembro 2022"
     },
     "gep": {

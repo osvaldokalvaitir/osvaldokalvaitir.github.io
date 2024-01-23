@@ -38,6 +38,8 @@
 
 ## :wrench: Install and run
 
+To install and run the project it is necessary to install Node.js 16.15.0 and Python 2.7.
+
 Open terminal:
 
 ```sh

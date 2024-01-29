@@ -187,6 +187,7 @@ button.dark:hover {
     text-align: center;
     font-size: 1.5rem;
     line-height: 3.5rem;
+    margin-bottom: 1rem;
     margin-right: 1rem;
     &:last-child {
       margin-right: 0;
@@ -223,6 +224,10 @@ button.dark:hover {
 
 .firebird-icons {
   background: transparent url("/img/icons/firebird.png") no-repeat 0 0;
+}
+
+.pnpm-icons {
+  background: transparent url("/img/icons/pnpm.png") no-repeat 0 0;
 }
 
 .pipefy-icons {

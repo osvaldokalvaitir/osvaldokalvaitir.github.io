@@ -168,6 +168,8 @@
         "next-level-week-ia-description": "Aplicação upload.ai usando Node.js, ReactJS, OpenAI Node API Library e Vercel AI SDK",
         "ia-para-devs": "IA para Devs",
         "ia-para-devs-description": "Uso de inteligência artificial na programação",
+        "ia-na-pratica": "IA na Prática",
+        "ia-na-pratica-description": "Desenvolvimento de aplicação Python, integração com modelo GPT da OpenAI, uso do framework CrewAI, criação de agente para consumo de dados do Duckduckgo, criação de frontend com framework StreamLit e deploy via StreamLit cloud",
         "starter": "Starter",
         "starter-description": "Javascript; Javascript ES6+; Node.js; ReactJS; React Native",
         "bootcamps": "Bootcamps",

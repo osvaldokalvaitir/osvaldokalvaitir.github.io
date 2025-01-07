@@ -16,7 +16,7 @@
     "surname": "Kalvaitir",
     "profession": "Tech Lead and Full Stack Software Engineer",
     "address": "Avaré · São Paulo · Brazil",
-    "description": "Hello! My name is Osvaldo, I'm a Full Stack Software Engineer at Prisma Promotora, located in the city of Barueri in the state of São Paulo. A long time ago, I'm focused on the JavaScript stack with TypeScript: Node.JS, ReactJS and React Native. Passionate about technology since I was a child, I like all the stages of creating and managing a project, such as: requirements gathering and analysis, UI/UX prototyping, development, testing, implantation and maintenance.",
+    "description": "Hello! My name is Osvaldo, and I have over 17 years of experience in software development. I currently work as a Full Stack Software Engineer at Prisma Promotora, located in the city of Barueri, in the state of São Paulo. A long time ago, I'm focused on the JavaScript stack with TypeScript: Node.JS, ReactJS and React Native. Passionate about technology since I was a child, I like all the stages of creating and managing a project, such as: requirements gathering and analysis, UI/UX prototyping, development, testing, implantation and maintenance.",
     "description-2": "Currently, I am enhancing my professional skills by completing courses. Subsequently, I plan to direct my focus towards deepening my knowledge in Python and Artificial Intelligence (AI). I am enthusiastic about exploring this new realm and applying the acquired knowledge to projects involving these innovative technologies. I believe that the combination of my experience with the versatility of Python and the exciting field of AI will bring new perspectives to my professional journey, propelling my growth and contribution to the team."
   },
   "experience": {
@@ -40,7 +40,7 @@
       "period": "April 2011 - December 2019"
     },
     "crystal": {
-      "office": "Broker Assistant",
+      "office": "Software Developer and Customer Service",
       "company": "Crystal Imóveis",
       "functions": "Financial management, customer service, software development, maintenance and networking on microcomputers and notebooks.",
       "period": "August 2001 - March 2011"

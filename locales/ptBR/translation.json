@@ -14,21 +14,21 @@
   "about": {
     "name": "Osvaldo",
     "surname": "Kalvaitir",
-    "profession": "Líder de Tecnologia e Engenheiro de Software Full Stack",
+    "profession": "Líder de Tecnologia e Engenheiro de Software Sênior Full Stack",
     "address": "Avaré · São Paulo · Brasil",
-    "description": "Olá! Meu nome é Osvaldo e tenho mais de 17 anos de experiência no desenvolvimento de software. Atualmente, atuo como Engenheiro de Software Full Stack na Prisma Promotora, localizada na cidade de Barueri, no estado de São Paulo. Há um bom tempo, estou focado na stack de JavaScript com TypeScript: Node.JS, ReactJS e React Native. Apaixonado por tecnologia desde pequeno, gosto de todas as etapas de criação e gerenciamento de um projeto, como: levantamento e análise de requisitos, prototipação UI/UX, desenvolvimento, testes, implantação e manutenção.",
+    "description": "Olá! Meu nome é Osvaldo e tenho mais de 17 anos de experiência no desenvolvimento de software. Atualmente, atuo como Engenheiro de Software Sênior Full Stack na Prisma Promotora, localizada na cidade de Barueri, no estado de São Paulo. Há um bom tempo, estou focado na stack de JavaScript com TypeScript: Node.JS, ReactJS e React Native. Apaixonado por tecnologia desde pequeno, gosto de todas as etapas de criação e gerenciamento de um projeto, como: levantamento e análise de requisitos, prototipação UI/UX, desenvolvimento, testes, implantação e manutenção.",
     "description-2": "Atualmente, estou enriquecendo minha bagagem profissional finalizando alguns cursos. Posteriormente, pretendo direcionar meu foco para aprofundar meus conhecimentos em Python e Inteligência Artificial (IA). Estou entusiasmado em explorar esse novo mundo e aplicar o aprendizado em projetos envolvendo essas tecnologias inovadoras. Acredito que a combinação da minha experiência com a versatilidade do Python e a empolgante área da IA trará novas perspectivas à minha trajetória profissional, impulsionando meu crescimento e contribuição para a equipe."
   },
   "experience": {
     "section": "Experiências",
     "prisma": {
-      "office": "Engenheiro de Software Full Stack",
+      "office": "Engenheiro de Software Sênior Full Stack",
       "company": "Prisma Promotora",
       "functions": "Manutenção do aplicativo PrismaPro em React Native, essencial para as operações diárias dos vendedores, com sincronização offline via Realm. Desenvolvimento de landing pages da Prisma e PrismaPro e outros novos projetos frontend usando TypeScript, React.js, Next.js, Tailwind CSS, Stitches e Storybook em monorepo. Eficiência com Prisma para persistência, escalabilidade pelo PlanetScale. Metodologia ágil com Pipefy. Vercel para entrega contínua CI/CD. Atualização constante com as últimas tendências para inovação contínua.",
       "period": "Setembro 2022 - Atualmente"
     },
     "datasmart": {
-      "office": "Líder de Tecnologia e Engenheiro de Software Full Stack",
+      "office": "Líder de Tecnologia e Engenheiro de Software Sênior Full Stack",
       "company": "Datasmart - Softwares de Gestão",
       "functions": "Desenvolvimento de um projeto SaaS do zero utilizando Node.js no backend, junto com Express e Sequelize. MySQL como banco de dados principal. No frontend, é empregado ReactJS com Redux, Material UI e styled-components. No mobile, React Native com WatermelonDB. Metodologia ágil com Pipefy e GitHub Projects. Virtualização de containers com Docker. CI/CD para entrega contínua com AWS CodeDeploy. Chatbot com Discord.js. Expertise na manutenção em servidores Linux.",
       "period": "Janeiro 2020 - Setembro 2022"

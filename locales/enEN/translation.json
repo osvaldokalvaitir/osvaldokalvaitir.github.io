@@ -14,21 +14,21 @@
   "about": {
     "name": "Osvaldo",
     "surname": "Kalvaitir",
-    "profession": "Tech Lead and Full Stack Software Engineer",
+    "profession": "Tech Lead and Senior Full Stack Software Engineer",
     "address": "Avaré · São Paulo · Brazil",
-    "description": "Hello! My name is Osvaldo, and I have over 17 years of experience in software development. I currently work as a Full Stack Software Engineer at Prisma Promotora, located in the city of Barueri, in the state of São Paulo. A long time ago, I'm focused on the JavaScript stack with TypeScript: Node.JS, ReactJS and React Native. Passionate about technology since I was a child, I like all the stages of creating and managing a project, such as: requirements gathering and analysis, UI/UX prototyping, development, testing, implantation and maintenance.",
+    "description": "Hello! My name is Osvaldo, and I have over 17 years of experience in software development. I currently work as a Senior Full Stack Software Engineer at Prisma Promotora, located in the city of Barueri, in the state of São Paulo. A long time ago, I'm focused on the JavaScript stack with TypeScript: Node.JS, ReactJS and React Native. Passionate about technology since I was a child, I like all the stages of creating and managing a project, such as: requirements gathering and analysis, UI/UX prototyping, development, testing, implantation and maintenance.",
     "description-2": "Currently, I am enhancing my professional skills by completing courses. Subsequently, I plan to direct my focus towards deepening my knowledge in Python and Artificial Intelligence (AI). I am enthusiastic about exploring this new realm and applying the acquired knowledge to projects involving these innovative technologies. I believe that the combination of my experience with the versatility of Python and the exciting field of AI will bring new perspectives to my professional journey, propelling my growth and contribution to the team."
   },
   "experience": {
     "section": "Experience",
     "prisma": {
-      "office": "Full Stack Software Engineer",
+      "office": "Senior Full Stack Software Engineer",
       "company": "Prisma Promotora",
       "functions": "Maintenance of the PrismaPro app in React Native, crucial for daily operations of salespeople, with offline synchronization via Realm. Development of landing pages for Prisma and PrismaPro, and other new frontend projects using TypeScript, React.js, Next.js, Tailwind CSS, Stitches, and Storybook in a monorepo. Proficiency with Prisma for persistence, scalability through PlanetScale. Agile methodology with Pipefy. Vercel for continuous delivery CI/CD. Constant updates to stay current with the latest trends for continuous innovation.",
       "period": "September 2022 - Currently"
     },
     "datasmart": {
-      "office": "Tech Lead and Full Stack Software Engineer",
+      "office": "Tech Lead and Senior Full Stack Software Engineer",
       "company": "Datasmart - Softwares de Gestão",
       "functions": "Development of a SaaS project from scratch using Node.js on the backend, along with Express and Sequelize. MySQL as the primary database. On the frontend, we utilize ReactJS with Redux, Material UI, and styled-components. For mobile development, we employ React Native with WatermelonDB. Agile methodology is applied with Pipefy and GitHub Projects. Container virtualization is achieved through Docker. CI/CD for continuous delivery is implemented using AWS CodeDeploy. A Discord.js-powered chatbot is integrated. Expertise in Linux server maintenance.",
       "period": "January 2020 - September 2022"

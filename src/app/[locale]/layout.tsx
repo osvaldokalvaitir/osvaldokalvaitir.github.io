@@ -8,8 +8,10 @@ import {
 import { notFound } from 'next/navigation'
 import type { ReactNode } from 'react'
 
+import { Sidebar } from '@/components/sidebar/sidebar'
 import { TooltipProvider } from '@/components/ui/tooltip'
 import { isLocale, type LocaleParams, locales, toI18nLang } from '@/i18n/config'
+import { I18nProvider } from '@/i18n/provider'
 import { cn } from '@/lib/utils'
 
 const mulish = Mulish({
@@ -75,9 +77,12 @@ export default async function LocaleLayout({
       className={cn(mulish.variable, saira.variable)}
     >
       <body>
-        <TooltipProvider>
-          <main>{children}</main>
-        </TooltipProvider>
+        <I18nProvider locale={locale}>
+          <TooltipProvider>
+            <Sidebar locale={locale} />
+            <main>{children}</main>
+          </TooltipProvider>
+        </I18nProvider>
       </body>
     </html>
   )

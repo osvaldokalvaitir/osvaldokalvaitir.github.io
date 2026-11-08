@@ -2,24 +2,35 @@
 
 import { Fragment, type MouseEvent } from 'react'
 
-import { type Locale, localeHref, locales, toI18nLang } from '@/i18n/config'
+import { languageHref, type Locale, locales, toI18nLang } from '@/i18n/config'
 
 const flags: Record<Locale, { src: string; alt: string }> = {
   'pt-br': { src: '/img/flags/br.png', alt: 'Português' },
   en: { src: '/img/flags/us.png', alt: 'English' },
 }
 
+type LanguageSwitcherProps = {
+  locale: Locale
+  /** Section the visitor is in (scroll spy), kept in the other language. */
+  active: string | null
+}
+
 /**
- * Flag links (Bootstrap 4 `.btn` look). The hash of the current section is
- * read at click time so the other language opens at the same place.
+ * Flag links (Bootstrap 4 `.btn` look). The href carries the active section,
+ * so the other language opens at the same place (also on middle-click or
+ * "copy link"); without one, the current hash is read at click time.
  */
-export function LanguageSwitcher({ locale }: { locale: Locale }) {
+export function LanguageSwitcher({ locale, active }: LanguageSwitcherProps) {
   function handleClick(event: MouseEvent<HTMLAnchorElement>, target: Locale) {
     if (target === locale) {
       event.preventDefault()
       return
     }
-    event.currentTarget.href = localeHref(target, window.location.hash)
+    event.currentTarget.href = languageHref(
+      target,
+      active,
+      window.location.hash,
+    )
   }
 
   return (
@@ -28,7 +39,7 @@ export function LanguageSwitcher({ locale }: { locale: Locale }) {
         <Fragment key={target}>
           {index > 0 && ' '}
           <a
-            href={localeHref(target)}
+            href={languageHref(target, active)}
             hrefLang={toI18nLang(target)}
             aria-current={target === locale ? 'page' : undefined}
             onClick={(event) => handleClick(event, target)}

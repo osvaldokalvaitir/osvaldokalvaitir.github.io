@@ -40,7 +40,7 @@ export function Sidebar({ locale }: { locale: Locale }) {
       id="sideNav"
       className="fixed inset-x-0 top-0 z-[1030] flex flex-wrap items-center justify-between bg-primary px-4 py-2 lg:h-screen lg:w-sidebar lg:flex-col lg:flex-nowrap lg:justify-start lg:text-center"
     >
-      <LanguageSwitcher locale={locale} />
+      <LanguageSwitcher locale={locale} active={active} />
 
       <a
         href="#top"

@@ -9,3 +9,6 @@ export type ExperienceItem = {
   logoAlt: string
   url: string
 }
+
+/** `png` is a sprite in `/img/icons/` (file name without extension). */
+export type HardSkill = { name: string } & ({ icon: IconDef } | { png: string })

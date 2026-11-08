@@ -5,6 +5,7 @@ import en from '../locales/en.json' with { type: 'json' }
 import ptBR from '../locales/pt-BR.json' with { type: 'json' }
 import { experience } from './experience.ts'
 import { sections } from './sections.ts'
+import { hardSkills, softSkills } from './skills.ts'
 
 type Tree = { [key: string]: unknown }
 
@@ -36,6 +37,10 @@ export function collectKeys(): string[] {
         (field) => `experience.${item.id}.${field}`,
       ),
     ),
+    'skills.section',
+    'skills.hard-skills.section',
+    'skills.soft-skills.section',
+    ...softSkills.map((skill) => `skills.soft-skills.${skill}`),
     'interests.section',
     ...[1, 2, 3, 4, 5, 6].map((n) => `interests.paragraph${n}`),
     'thanks.section',
@@ -79,4 +84,12 @@ test('sections are in page order', () => {
       'thanks',
     ],
   )
+})
+
+test('hard skills match the original list', () => {
+  assert.equal(hardSkills.length, 77)
+  assert.equal(new Set(hardSkills.map((s) => s.name)).size, 77)
+  assert.equal(hardSkills[0].name, 'JavaScript')
+  assert.equal(hardSkills.at(-1)?.name, 'Microsoft Teams')
+  assert.equal(softSkills.length, 16)
 })

@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import { About } from '@/components/sections/about'
 import { Experience } from '@/components/sections/experience'
 import { Interests } from '@/components/sections/interests'
+import { Skills } from '@/components/sections/skills'
 import { Start } from '@/components/sections/start'
 import { Thanks } from '@/components/sections/thanks'
 import { isLocale, type LocaleParams } from '@/i18n/config'
@@ -22,6 +23,7 @@ export default async function Page({ params }: LocaleParams) {
       <Start />
       <About t={t} />
       <Experience t={t} />
+      <Skills t={t} />
       <Interests t={t} />
       <Thanks t={t} />
     </>

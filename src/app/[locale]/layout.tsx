@@ -8,6 +8,7 @@ import {
 import { notFound } from 'next/navigation'
 import type { ReactNode } from 'react'
 
+import { TooltipProvider } from '@/components/ui/tooltip'
 import { isLocale, type LocaleParams, locales, toI18nLang } from '@/i18n/config'
 import { cn } from '@/lib/utils'
 
@@ -74,7 +75,9 @@ export default async function LocaleLayout({
       className={cn(mulish.variable, saira.variable)}
     >
       <body>
-        <main>{children}</main>
+        <TooltipProvider>
+          <main>{children}</main>
+        </TooltipProvider>
       </body>
     </html>
   )

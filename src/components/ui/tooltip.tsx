@@ -1,7 +1,18 @@
 'use client'
 
 import * as TooltipPrimitive from '@radix-ui/react-tooltip'
-import type { ReactElement, ReactNode } from 'react'
+import {
+  type PointerEvent,
+  type ReactElement,
+  type ReactNode,
+  useEffect,
+  useId,
+  useRef,
+  useState,
+} from 'react'
+
+/** Dispatched when a tooltip opens on touch, so the others close. */
+const TOUCH_OPEN_EVENT = 'kalvaitir:tooltip-touch-open'
 
 /**
  * Bootstrap defaults: tooltips open without delay and close as soon as the
@@ -21,11 +32,52 @@ export function TooltipProvider({ children }: { children: ReactNode }) {
 
 type TooltipProps = { content: string; children: ReactElement }
 
-/** Bootstrap 4 tooltip (`data-placement="bottom"`) on top of Radix. */
+/**
+ * Bootstrap 4 tooltip (`data-placement="bottom"`) on top of Radix.
+ *
+ * Radix ignores touch, so a tap toggles the tooltip here (Bootstrap showed it
+ * on tap); tapping elsewhere closes it (Radix outside-pointer dismiss) and
+ * only one is open at a time. Mouse hover and keyboard focus are Radix's.
+ */
 export function Tooltip({ content, children }: TooltipProps) {
+  const id = useId()
+  const [open, setOpen] = useState(false)
+  const touchedRef = useRef(false)
+
+  useEffect(() => {
+    if (!open) return
+    function handleTouchOpen(event: Event) {
+      if ((event as CustomEvent<string>).detail !== id) setOpen(false)
+    }
+    document.addEventListener(TOUCH_OPEN_EVENT, handleTouchOpen)
+    return () => document.removeEventListener(TOUCH_OPEN_EVENT, handleTouchOpen)
+  }, [open, id])
+
+  function handlePointerDown(event: PointerEvent) {
+    touchedRef.current = event.pointerType === 'touch'
+    if (!touchedRef.current) return
+    if (!open) {
+      document.dispatchEvent(new CustomEvent(TOUCH_OPEN_EVENT, { detail: id }))
+    }
+    setOpen(!open)
+  }
+
   return (
-    <TooltipPrimitive.Root>
-      <TooltipPrimitive.Trigger asChild aria-label={content}>
+    <TooltipPrimitive.Root open={open} onOpenChange={setOpen}>
+      <TooltipPrimitive.Trigger
+        asChild
+        aria-label={content}
+        tabIndex={0}
+        onPointerDown={handlePointerDown}
+        // A touch pointer "leaves" when lifted and the tap ends in a click;
+        // Radix closes on both, so skip it to keep the tapped tooltip open.
+        onPointerLeave={(event) => {
+          if (event.pointerType === 'touch') event.preventDefault()
+        }}
+        onClick={(event) => {
+          if (touchedRef.current) event.preventDefault()
+        }}
+      >
         {children}
       </TooltipPrimitive.Trigger>
       <TooltipPrimitive.Portal>

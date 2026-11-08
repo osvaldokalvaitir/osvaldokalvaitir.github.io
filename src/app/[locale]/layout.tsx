@@ -43,13 +43,15 @@ export async function generateMetadata({
   const { locale } = await params
 
   return {
+    // Absolute URLs: search engines ignore relative hreflang/canonical links.
+    metadataBase: new URL('https://kalvaitir.com'),
     title: 'Osvaldo Kalvaitir Filho',
     description: 'Personal website',
     authors: [{ name: 'Osvaldo Kalvaitir Filho' }],
     manifest: '/manifest.json',
     alternates: {
       canonical: `/${locale}/`,
-      languages: { 'pt-BR': '/pt-br/', en: '/en/' },
+      languages: { 'pt-BR': '/pt-br/', en: '/en/', 'x-default': '/pt-br/' },
     },
     icons: {
       icon: '/img/favicon.ico',

@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  🥇 Personal website using Bootstrap, Gulp and jQuery
+  🥇 Personal website using Next.js, React, Tailwind CSS and Radix UI
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 ## :wrench: Install and run
 
-To install and run the project it is necessary to install Node.js 16.15.0 and Python 2.7.
+To install and run the project it is necessary to install Node.js 22.18 or higher.
 
 Open terminal:
 
@@ -49,11 +49,11 @@ git clone https://github.com/osvaldokalvaitir/osvaldokalvaitir.github.io
 # Entry in folder
 cd osvaldokalvaitir.github.io
 
-# Install deps with npm or yarn
-npm install | yarn
+# Install deps
+npm install
 
-# Launch the app with npm or yarn
-npm run start | yarn start
+# Launch the app
+npm run dev
 ```
 
 ## :memo: License

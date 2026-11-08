@@ -29,3 +29,19 @@ export function languageHref(
 ): string {
   return localeHref(locale, activeId ? `#${activeId}` : hash)
 }
+
+/** Translation namespaces read by client components (`useTranslation`). */
+export const clientNamespaces = ['sidebar'] as const
+
+/**
+ * Subset of a locale's translations shipped to the client: only the given
+ * top-level namespaces, so the client bundle does not carry every string.
+ */
+export function pickNamespaces<T extends object, K extends keyof T>(
+  translation: T,
+  namespaces: readonly K[],
+): Pick<T, K> {
+  const subset = {} as Pick<T, K>
+  for (const namespace of namespaces) subset[namespace] = translation[namespace]
+  return subset
+}

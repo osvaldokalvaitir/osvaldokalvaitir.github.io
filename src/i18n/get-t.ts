@@ -1,26 +1,28 @@
-import i18next, { type TFunction } from 'i18next'
+import type { ResourceLanguage, TFunction } from 'i18next'
 
 import en from '../locales/en.json'
 import ptBR from '../locales/pt-BR.json'
-import { type Locale, toI18nLang } from './config'
+import {
+  clientNamespaces,
+  type Locale,
+  pickNamespaces,
+  toI18nLang,
+} from './config'
+import { createI18n } from './create-i18n'
 
 export const resources = {
   'pt-BR': { translation: ptBR },
   en: { translation: en },
 }
 
-export function createI18n(locale: Locale) {
-  const instance = i18next.createInstance()
-  instance.init({
-    resources,
-    lng: toI18nLang(locale),
-    fallbackLng: 'pt-BR',
-    initAsync: false,
-    interpolation: { escapeValue: false },
-  })
-  return instance
+export function getT(locale: Locale): TFunction {
+  return createI18n(locale, resources).t
 }
 
-export function getT(locale: Locale): TFunction {
-  return createI18n(locale).t
+/** Serializable translations the client `I18nProvider` needs (server only). */
+export function getClientMessages(locale: Locale): ResourceLanguage {
+  return pickNamespaces(
+    resources[toI18nLang(locale)].translation,
+    clientNamespaces,
+  )
 }

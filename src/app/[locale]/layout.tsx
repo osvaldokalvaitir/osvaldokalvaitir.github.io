@@ -11,6 +11,7 @@ import type { ReactNode } from 'react'
 import { Sidebar } from '@/components/sidebar/sidebar'
 import { TooltipProvider } from '@/components/ui/tooltip'
 import { isLocale, type LocaleParams, locales, toI18nLang } from '@/i18n/config'
+import { getClientMessages } from '@/i18n/get-t'
 import { I18nProvider } from '@/i18n/provider'
 import { cn } from '@/lib/utils'
 
@@ -79,7 +80,7 @@ export default async function LocaleLayout({
       className={cn(mulish.variable, saira.variable)}
     >
       <body>
-        <I18nProvider locale={locale}>
+        <I18nProvider locale={locale} messages={getClientMessages(locale)}>
           <TooltipProvider>
             <Sidebar locale={locale} />
             <main>{children}</main>

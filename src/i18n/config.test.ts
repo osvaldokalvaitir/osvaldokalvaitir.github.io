@@ -1,7 +1,14 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
 
-import { isLocale, languageHref, localeHref, toI18nLang } from './config.ts'
+import {
+  clientNamespaces,
+  isLocale,
+  languageHref,
+  localeHref,
+  pickNamespaces,
+  toI18nLang,
+} from './config.ts'
 
 test('isLocale', () => {
   assert.equal(isLocale('pt-br'), true)
@@ -29,4 +36,12 @@ test('languageHref', () => {
   // neither: locale root
   assert.equal(languageHref('en', null, ''), '/en/')
   assert.equal(languageHref('pt-br', null), '/pt-br/')
+})
+
+test('pickNamespaces keeps only the given namespaces', () => {
+  const translation = { sidebar: { name: 'N' }, about: { text: 'T' } }
+  assert.deepEqual(pickNamespaces(translation, clientNamespaces), {
+    sidebar: { name: 'N' },
+  })
+  assert.deepEqual(pickNamespaces(translation, []), {})
 })

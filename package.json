@@ -52,7 +52,7 @@
     "typescript": "^6.0.3"
   },
   "engines": {
-    "node": ">=20.9"
+    "node": ">=22.18"
   },
   "type": "module"
 }

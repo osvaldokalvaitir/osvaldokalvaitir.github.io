@@ -1,11 +1,10 @@
 import Link from 'next/link'
 
-// `redirect()` does not emit a working redirect in a static export,
-// so this page redirects on the client via a meta refresh.
+// The redirect itself lives in the layout's <head> (see layout.tsx).
 export default function Page() {
   return (
     <>
-      <meta httpEquiv="refresh" content="0; url=/pt-br/" />
+      <title>Osvaldo Kalvaitir Filho</title>
       <link rel="canonical" href="/pt-br/" />
       <p>
         <Link href="/pt-br/">/pt-br/</Link>

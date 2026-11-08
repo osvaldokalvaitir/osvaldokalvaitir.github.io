@@ -166,6 +166,20 @@
   }
 }
 
+/*
+ * While a Radix Dialog is open, react-remove-scroll-bar injects
+ * `body[data-scroll-locked] { padding-left: 0; padding-top: 0 }`, which would
+ * drop the navbar/sidebar offsets and shift the page behind the overlay.
+ */
+body[data-scroll-locked] {
+  padding-top: 54px !important;
+
+  @variant lg {
+    padding-top: 0 !important;
+    padding-left: var(--spacing-sidebar) !important;
+  }
+}
+
 @utility subheading {
   font-family: var(--font-heading);
   font-size: 1.5rem;

@@ -1,14 +1,6 @@
-export const dynamicParams = false
+import type { LocaleParams } from '@/i18n/config'
 
-export function generateStaticParams() {
-  return [{ locale: 'pt-br' }, { locale: 'en' }]
-}
-
-export default async function Page({
-  params,
-}: {
-  params: Promise<{ locale: string }>
-}) {
+export default async function Page({ params }: LocaleParams) {
   const { locale } = await params
 
   return <p>{locale}</p>

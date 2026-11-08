@@ -51,7 +51,11 @@ const eslintConfig = [
   ...nextConfigs,
   {
     plugins: { 'simple-import-sort': simpleImportSort },
-    rules: { 'simple-import-sort/imports': 'error' },
+    rules: {
+      'simple-import-sort/imports': 'error',
+      // Static export with images.unoptimized: next/image adds nothing here.
+      '@next/next/no-img-element': 'off',
+    },
   },
 ]
 

@@ -1,10 +1,28 @@
 import '@/styles/globals.css'
 
 import type { Metadata, Viewport } from 'next'
+import {
+  Mulish,
+  Saira_Extra_Condensed as SairaExtraCondensed,
+} from 'next/font/google'
 import { notFound } from 'next/navigation'
 import type { ReactNode } from 'react'
 
 import { isLocale, type LocaleParams, locales, toI18nLang } from '@/i18n/config'
+import { cn } from '@/lib/utils'
+
+const mulish = Mulish({
+  subsets: ['latin', 'latin-ext'],
+  weight: ['400', '800'],
+  style: ['normal', 'italic'],
+  variable: '--font-mulish',
+})
+
+const saira = SairaExtraCondensed({
+  subsets: ['latin', 'latin-ext'],
+  weight: ['500', '700'],
+  variable: '--font-saira',
+})
 
 export const dynamicParams = false
 
@@ -51,8 +69,13 @@ export default async function LocaleLayout({
   if (!isLocale(locale)) notFound()
 
   return (
-    <html lang={toI18nLang(locale)}>
-      <body>{children}</body>
+    <html
+      lang={toI18nLang(locale)}
+      className={cn(mulish.variable, saira.variable)}
+    >
+      <body>
+        <main>{children}</main>
+      </body>
     </html>
   )
 }

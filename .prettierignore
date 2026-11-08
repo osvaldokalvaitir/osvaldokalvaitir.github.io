@@ -1,0 +1,7 @@
+src/locales
+docs
+README.md
+out
+.next
+.superpowers
+package-lock.json
